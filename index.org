@@ -1,0 +1,179 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Chenla Trivium
+#+STARTUP: showall
+#+PROPERTY: filename 
+#+INCLUDE: ./inc/head.org
+#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/deerpig/deerpig-install/index.org
+  :Created: 2016-08-20T16:40@Wat Phnom (11.5733N17-104.925295W)
+  :ID: 5995dc73-91da-4940-bae1-efb75ce040d4
+  :URL:
+  :END:
+#+INCLUDE: ./inc/macros.org
+#+INCLUDE: ./inc/links.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* About these pages
+
+#+begin_quote
+The Chenla Trivium is the foundation for learning to become a
+continuous process that is woven through out lives from cradle to
+grave.  Learning is not a place, it is a process.
+#+end_quote
+
+* Recent Activity
+
+Recent change activity on http://github.com/deerpig/deerpig-install
+
+#+BEGIN_SRC sh :exports results :results silent
+githubchart -u deerpig ./img/contrib.svg
+#+END_SRC
+
+#+RESULTS:
+
+[[./img/contrib.svg]]
+
+#+HTML: <div class="contrib-legend text-small text-muted" title="A summary of pull requests, issues opened, and commits to the default and gh-pages branches.">
+#+HTML:  <span>Less</span>
+#+HTML:   <ul class="legend">
+#+HTML:     <li style="background-color: #eee"></li>
+#+HTML:     <li style="background-color: #d6e685"></li>
+#+HTML:     <li style="background-color: #8cc665"></li>
+#+HTML:     <li style="background-color: #44a340"></li>
+#+HTML:     <li style="background-color: #1e6823"></li>
+#+HTML:   </ul>
+#+HTML:  <span>More</span>
+#+HTML: </div>
+
+* Introduction
+
+Most of this material will be moved into other files....
+
+* b>i notes
+
+** Studyhall: A Lifetime Learning Program
+
+Since the beginnings of what would become the modern college or
+university in medieval Europe, learning has always been thought of as
+a place.  You go to a /place/ to learn, study and then after passing
+examinations and other requirements a student is granted a /degree/
+certificate that certifies that the person has completed and mastered
+the materials in their course of study.  Until recently, this was the
+end of most people's education.  What was learned would be adequate to
+support a career that would last the rest of a person's active working
+life. 
+
+This model worked well when the rate of innovation in a society
+happened at a steady and relatively slow pace that could be measured
+in decades and generations.  But this is no longer the case today.
+Change is happening in months and years that might have taken
+centuries in the past.  Higher educational institutions can not keep
+up with this rate of change, and by the time they have identified new
+technologies and bodies of knowledge that should be taught, and
+designed courses to teach this to students, the technology is already
+far behind what is being used in mainstream business and research.
+
+Learning must change from being in a specific /place/ one goes for a
+set /duration/ to learn something to a /process/ that is happening all
+of the time, no matter where you are.
+
+Such education will be a combination of traditional /place-based/
+education, /directed self-study/, and /learning-by-doing/ by working
+with people who have already mastered and actively practiced within a
+discipline.
+
+*** Directed Self Study
+
+Self-study is difficult and often seen as inferior to studying in a
+traditional educational program.  In one sense this is 
+
+, mostly because there is a lack of meaningful feedback and
+reinforcement.
+
+*** Stages of Learning
+
+Rather than thinking in terms of a person being an expert or master in
+general, we need to change our thinking to acknowledge that just
+because you are a master of one subject, you will be, at best,
+beginner in most other subjects.
+
+We all go through the same stages of learning, throughout our lives,
+with different levels of mastery in different domains.  Winning the
+noble prize in Biology does not mean that you even as qualified as a
+first year student studying economics or literature.
+
+We break down these stages as:
+
+  - novice :: a beginner who is learning the fundamental knowledge and
+       skills required of a given discipline.
+  - apprentice :: an advanced beginner who has learned enough to be
+       able to productively work together with people who have mastered
+       the discipline.  It is as an apprentice that you commit to
+       actively practicing a discipline with the goal of eventually
+       mastering it.
+  - jack :: a person who has mastered a discipline, but has still not
+       practiced it long enough to be a master in their own right.
+       Jacks are expected to spend time working on different projects
+       with different teams to deepen and expand their mastery of
+       their discipline.
+  - master :: one who practices their discipline not as a means of
+       learning what others have done before them, but learning as a
+       means of expanding and extending their discipline and knowledge
+       in new ways.
+
+We must treat these stages of learning, not as qualifications,
+granting status, but instead as active /roles/ that we practice in
+different aspects of our lives.  If one of your /roles/ is /a master
+of particle physics/ when you are in the lab, at home your children
+only see you in your role as /mom/.  We need to wear these hats with
+great seriousness when we are within that role, but wear them lightly
+or not at all when wearing another hat.  And we must constantly strive
+to always try new hats, to always be a beginner, interested in
+beginnings as a process that continues through our entire lives.
+
+*** Trivium
+
+*** Core Skills
+
+Before one can even become a novice, there is a core set of knowledge
+and skills that must be mastered.  In medieval europe, these core
+skills were called the Trivium which was made up of three courses of
+study, grammer, logic and rhetoric.  Modern use of these terms differs
+from their original meaning, but in essense, the Trivium was meant to
+give students the intellectual skills to learn how to learn.  More
+specifically, to be able to manipulate symbol systems (math and
+writing), think rationally and logically and to communicate with
+others.
+
+Echoes of the medieval Trivium can still be found in /liberal arts
+degree/ programs, but the idea of building general purpose learning
+skills that can be used through ones whole life were watered down
+during the Industrial Revolution which required workers with fixed
+skillsets that would not change much in their careers.  Today's
+educational needs are a very good fit with the concept of the Trivium
+by providing the skills to learn and communicate anything throughout
+your working life.
+
+We are reimagining the Trivium to equip students not only to be able
+to work with written and spoken laguage and math, but programing and a
+solid foundation in physics and chemistry that can be used in any
+discipline. This may sound strange at first, for those who wish to
+study sociology or law, but having a solid working knowledge of how
+the physical world works is just as important for a poet as it is a
+judge or even a politician.  Present day lawyers, judges and
+politicians would be better qualified to weigh in on issues like
+climate change, health issues public safety if they had a core
+education which gave them the intellectual tools to see the difference
+between what is real and what is possible and bullshit masquerading as
+facts.
+
+*** Apprenticeships
