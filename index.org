@@ -61,6 +61,249 @@ Most of this material will be moved into other files....
   - Mastery: George Leonard
   - Mastery: Robert Greene
 
+------
+
+The Primium, Trivium and Quadrivium (PTQ) are not only cumulative,
+building each on the the other, but they are also iterative, in that
+they are studies that will continue through one's entire life.
+
+We study different things, at different levels of complexity as they
+are mastered.  There is so much accumulated knowledge and
+specialization that no one will ever master everything.  So the
+/Primium/ is not only only for >11 age children.  Even if you are 200
+years old, you might still want to master a new language and will
+do this at the level of the Primium.  This is not to say that people
+who have mastered the Trivium and Quadrivium will study a new language
+in the same way that a 7 year old will because the 7 year old will not
+have the ability to grasp abstractions and complexity.  So there will
+be two Primium tracks, one for children under the age of 11, and one
+for learners who have already completed the first stage of the
+Trivium.
+
+* The Nature of Education
+** Primium
+ :: Scope
+
+*** Intro
+
+
+**** Primary Education
+
+Two tracks:
+
+   child is born into a contemporary native english speaking society
+   and english is their native language.
+
+or
+
+   child was born into a contemporary society where english is not
+   spoken or spoken as a second language
+
+The Primium (latin for /first/) is the minimum skills and knowledge a
+student must master before she can study the Trivium.
+
+This includes basic:
+
+  - spoken english  :: basic fluency
+  - written english :: remedial
+  - reading level :: remedial
+  - arithmetic :: numbers, addition, subtraction, multiplication, division
+  - world geography :: continents, seas, countries, rivers etc.
+  - computer :: basics of a gui os, web browser & text editor.
+
+The Primium can be started as early as two years old, and the more
+that the child is able to memorize and practice the better.  But no
+complex reasoning or abstract concepts should be taught before the
+child turns ten or eleven.
+
+** Trivium
+ :: Scope
+
+*** Intro
+the tools needed to study the quadrivium
+
+  - Grammar  :: symbol systems to communicate and manipulate langauge
+    - written language -- tools to express written language - chalk,
+      ink and bits.  
+    - reading :: 4 kinds
+    - etymology :: history & conext of words
+    - history :: time as narratives 
+      - process philosophy
+      - oral, written & code traditions
+    - number :: 
+    - code :: dynamic manipulation of text (everything is text)
+    - maps :: spatial symbol systems
+    - bitmaps :: images / video
+    - geometry / vectors :: 
+    - audio ::    
+  - Logic    ::
+    - analytical and synoptic reading
+  - Rhetoric :: communication
+    - composition
+    - communication
+    
+The Trivium should be started at the age of 11, no earlier.  At this
+age the child is able to begin to comprehend complex and abstract
+concepts.
+
+The Trivium provides the child with the intellectual tools to express
+thoughts in spoken, written and code form, communicate with others,
+and to think rationally and critically.
+
+These arts will be a foundation that the child will be able use the
+rest of their lives and form the basis for self-directed and directed
+study in the future.
+
+**** Subjects included
+
+- history
+- literature
+- 
+
+*** Grammar
+*** Logic
+*** Rhetoric
+** Quadrivium
+ :: Scope
+
+The original Quadrivium was made up of four subjects that each dealt
+with different aspects of number and magnitude: arithmetic, geometry,
+music and astronomy.  This originated with Plato's belief that the
+Universe could best be understood in terms of number.
+
+Our understanding of how the world works is far more complex and
+nuanced today.  And even though in recent years the idea that we live
+in a /mathematical universe/ has brought us full circle back to Plato
+in some respects, mathematics is still removed from physical reality
+and from mind.  Mathematics is very good at modeling the universe, but
+the universe is better unstood in terms of information.  Information
+is a gray area that sits somewhere between mathematics and the
+physical universe.  Information is directly connected to the physical
+universe, it requires energy to create and destroy it.  And
+increasingly information is being seen as the basic building block of
+the universe -- everything in the universe, space, matter and energy
+can be thought of as actualized information.  As if information was a
+computer program, that compiles into matter, energy and space.
+
+The new Quadrivium is made up of four subject that deal with different
+aspects of information; mimesis, rhizomata, systema and transacta.
+ 
+*** Mimesis
+*** Rhizomata
+*** Systema
+*** Transacta
+** Primer (Primarium)
+*** Introduction
+
+The Primer is the place where you go after you have completed the
+Quadrivium.  It is actually a collection of scopes, a Primer of
+Primers, not a single work.  The primer is the gateway to /everything/
+that isn't in the quadrivium.  It is a /primer/, in the original sense
+of the word, a place to get the minimum needed to start -- other more
+detailed specialized scopes will branch from each subject....
+
+There should always be three parts to each -- theory, application and
+proscription.
+
+The Primer will eventually include everything needed to build and
+maintain a self-sustaining technologically advanced complex society
+-- in microcosm -- for communities not larger than 50K in population
+and not smaller than 500.  Below that threshold there won't be enough
+people to specialize in living memory and the community will have to
+fall back to a lower level of complexity...
+
+*** Organization
+**** Liberal Arts
+- Formal Sciences
+  - Mathematics     ::  
+  - Statistics
+  - Logic           :: 
+  - Systems         :: systems science
+  - Information  
+- Natural Sciences
+  - Physics
+  - Chemistry
+  - Biology
+  - Astronomy       :: space sciences
+- Earth Sciences
+  - Geology         :: tectonics, earthquakes, vulcanism
+- ?????
+  - History         :: 
+  - Mythology       :: includes, cults and theistic belief systems
+  - Linguistics     :: 
+  - Philosophy      :: 
+  - Literature      :: 
+- Anthropology      :: 
+**** Applied Arts
+- Biological
+  - Medicine      :: all existing sub-disciplines
+  - Pharma        ::
+  - Agriculture   :: animal husbandry, crops, forestry
+- Information
+  - Computing     :: programing, processing & storage
+  - Electronics   :: integrated circuits, display, input
+  - Electrics     :: generation, storage, transmission, motors
+  - Network       :: communications, data transmission
+- Energy
+  - Chemical      :: combustion, petrochemical, natural gas, biofuels
+  - Nuclear       :: fission, fusion
+  - Biological    :: electro chemical eg. solar, photosynthesis 
+- Earth Sciences
+  - Meterology    :: climate, weather, biosphere
+  - Ecology       :: pollution, conservation, 
+  - Geology       :: earthquakes, vulcanism
+- Materials
+  - Mining        :: mineral & element extraction
+  - Mineral       :: stone, cement
+  - Organic       :: woods, grasses
+  - Ceramics      :: ceramics & glass
+  - Composites    ::
+  - Polymers      ::
+  - Metal alloys  :: 
+  - Chemical      :: Paints, Adhesives, Compounds
+  - Optics        :: glassware, lenses, fiber optics
+- Social
+  - Civil         :: city planning, architecture, civil engineering
+  - Governance    :: organization, political systems, law, services
+  - Economics     :: currency, transactions, markets
+  - Philosophy    :: ethics, philosophical systems
+  - Cognition     ::
+  - Sociology     ::
+  - Psychology    ::
+- Space Sciences
+  - Physics       :: experimental, applied
+  - Astronomy     :: observatories, imaging, 
+  - Geography     :: cartography, hydrology, satellite imaging
+- Tools
+  - Handtools     :: muscle, electrical, pneumatic 
+  - Machines      :: industrial, domestic appliance
+  - Robotics      :: computer controlled, general purpose machines
+- Transporation
+  - Aviation      :: planes, helicopters, balloons, avionics 
+  - Maritime      :: boats, navigation, propulsion
+  - Space         :: rockets, space elevator, satellites, probes
+  - Ground        :: wheel, tread, ped
+- Paleontology
+- Archaeology
+- Education
+- Engineering
+- Military
+**** Fine Arts
+- Music
+- Art
+- Dance
+**** Proscribed Arts
+- Designs         :: plans, cad files, etc.
+- Standards       :: 
+- Best Practices  :: 
+- Protocols       :: tcp
+- Encodings       :: ascii, unicode, binary
+- Proscriptions   :: general techniques and skills 
+- Proceedures     :: recipes, checklists, proceedures
+- Patterns        :: pattern languages
+
+
+
 * b>i notes
 
 ** Studyhall: A Lifetime Learning Program
