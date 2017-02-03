@@ -58,6 +58,9 @@ githubchart -u deerpig ./img/contrib.svg
 
 Most of this material will be moved into other files....
 
+  - Mastery: George Leonard
+  - Mastery: Robert Greene
+
 * b>i notes
 
 ** Studyhall: A Lifetime Learning Program
@@ -67,7 +70,7 @@ university in medieval Europe, learning has always been thought of as
 a place.  You go to a /place/ to learn, study and then after passing
 examinations and other requirements a student is granted a /degree/
 certificate that certifies that the person has completed and mastered
-the materials in their course of study.  Until recently, this was the
+the materials in their course of study.  Until recently, this was the 
 end of most people's education.  What was learned would be adequate to
 support a career that would last the rest of a person's active working
 life. 
@@ -177,3 +180,49 @@ between what is real and what is possible and bullshit masquerading as
 facts.
 
 *** Apprenticeships
+
+* Mastery
+
+Mastery: George Leonard
+
+5 keys to long-term success:
+
+  - Instruction;
+  - Practice;
+  - Surrender;
+  - Intentionality; and,
+  - The Edge - Push the envelop.
+
+Mastery is:
+
+  - The process where what was difficult becomes both easier and
+    more pleasurable;
+  - Long-term dedication to the journey - not the bottom line;
+  - Gaining mental discipline to travel further on your journey;
+  - Being goalless;
+  - Realizing that the pleasure of practice is intensified;
+  - Creating deep roots;
+  - Knowing that you will never reach a final destination;
+  - Being diligent with the process of mastery;
+  - Your commitment to hone your skills;
+  - After you have reached the top of the mountain, climb
+    another one;
+  - Being willing to practice, even when you seem to be getting
+    no where;
+  - Making this a life process;
+  - Being patient, while you apply long-term efforts;
+  - Appreciating and even enjoying the plateau, as much as you do
+    the progress;
+  - Practicing for the sake of practice;
+  - Winning graciously, and losing with equal grace;
+  - Placing practice, discipline, conditioning and character
+    development before winning;
+  - Being courageous;
+  - Being fully in the present moment;
+  - Realizing that the ultimate goal is not the medal, or the
+    ribbon, but the path to mastery its self (The "I am" stage);
+  - Being willing to look foolish;
+  - Maintaining flexibility in your strategy, and in your
+    actions;
+  - A journey; and,
+  - Determination
