@@ -48,7 +48,9 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+This outline which is more of a reading list is based on:
 
+  [[http://home.uchicago.edu/~rfulton/Trivium.htm][The Trivium]] | U.of Chicago Course
 
 * THE TRIVIUM
 
