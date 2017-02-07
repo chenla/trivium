@@ -476,3 +476,16 @@ Mastery is:
     actions;
   - A journey; and,
   - Determination
+
+** Practice
+
+ - [[bib:coyle:2012][The Little Book of Talent | ]]Daniel Coyle
+ - [[bib:coyle:2009talent][The Talent Code]] | Daniel Coyle
+ - [[bib:colvin:2008talent][Talent is Overrated]] | Geoff Colvin
+ - [[bib:shibata:2017overlearning][Overlearning hyperstabilizes a skill by rapidly making
+   neurochemical processing inhibitory-dominant]] | Kazuhis
+   Shibata, etal.
+ - [[bib:greene:2012mastery][Mastery]] | Robert Greene
+ - [[bib:leonard:1992mastery][Mastery. The Keys To Success And Long Term Fulfillment]] |
+   George Leonard
+ 
