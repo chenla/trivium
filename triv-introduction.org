@@ -48,3 +48,43 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+Keep in mind that this not the Medieval Trivium, though much has been
+borrowed from it, including a lot of nomenclature. It would be better
+to call this the /Scopic Trivium/.  We will learn more about Scopic
+Philosophy later in this introduction.
+
+The Medieval Trivium was the equivilent of a modern College or
+University Bachelor's Degree.  And the Medievel Trivium is still the
+ancient ancestor of the Liberal Arts Bachelor's degree program, though
+one must often squint with just the right amount of grimmace to see it
+at times.
+
+
+
+* Scopic Philosophy
+
+It was really only recently that I realized that my relentlessly
+evolving concept of Scope had become— while I was not watching—a
+philosophy in its own right.
+
+Every Civilization is built on philosophical tradtions that contain
+many variations over time and location, but like in Jazz
+improvisation, still manage to stay within the theme set at the
+beginning.  The Western Tradition that Western Civilization is based
+on Greek/Roman tradition.  If there is an Eastern Tradiion, it could
+be argued that it is based originally on Hindu mytholody and was later
+refined into Buddhist/Confucian Tradation.   
+
+A modular philosophy, in that it provides a framework for
+understanding how the world works.  But it can also be combined with
+any number of classical philosophies of life.  It works extremely well
+in combination with Skepticism and Epicureanism.
+
+  - Reconciles Atomist and Holistic views of the World.
+  - A concept of Time and Causality based on Process Philosophy
+  - A Temporal Model based Scope (Context: LOD, POV ROC)
+  - A Dynamicly Changing Cosmology that reflects the current scientic consensus
+    of how the Universe works based on the scientific method.
+  - Plug-in Philosophy of Life
+  - Plug-in Phlosophy of lifelong learning
+
