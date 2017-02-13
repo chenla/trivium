@@ -1,0 +1,125 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Mastery
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/trivium/triv-mastery.org
+  :Created: 2017-02-13T12:13@Prek Leap (11.642600N-104.919210W)
+  :ID: 85b5b600-1212-475e-8aed-2ff90df670dc
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+Mastery is the process of lifelong learning.  The Trivium can be thought of
+as a means of establishing underlying habits of thought and technique
+that are part of the process of mastering any skill or subject.  As
+such Mastery is a unspoken subject of the Trivium that is not formally
+given a name but is taught indirectly.
+
+This doesn't mean that Mastery is an un-spoken process.  The process
+of mastering a subject or skill is well known.  It is not an easy
+process, and there are no short-cuts, but it is deeply fulfilling.  In
+many respects Mastery is the foundation that civilization is built on.
+
+
+Mastery comes down to three things:
+
+   - knowledge
+   - technique
+   - process
+
+
+Mastery: George Leonard
+
+5 keys to long-term success:
+
+  - Instruction;
+  - Practice;
+  - Surrender;
+  - Intentionality; and,
+  - The Edge - Push the envelop.
+
+Mastery is:
+
+  - The process where what was difficult becomes both easier and
+    more pleasurable;
+  - Long-term dedication to the journey - not the bottom line;
+  - Gaining mental discipline to travel further on your journey;
+  - Being goalless;
+  - Realizing that the pleasure of practice is intensified;
+  - Creating deep roots;
+  - Knowing that you will never reach a final destination;
+  - Being diligent with the process of mastery;
+  - Your commitment to hone your skills;
+  - After you have reached the top of the mountain, climb
+    another one;
+  - Being willing to practice, even when you seem to be getting
+    no where;
+  - Making this a life process;
+  - Being patient, while you apply long-term efforts;
+  - Appreciating and even enjoying the plateau, as much as you do
+    the progress;
+  - Practicing for the sake of practice;
+  - Winning graciously, and losing with equal grace;
+  - Placing practice, discipline, conditioning and character
+    development before winning;
+  - Being courageous;
+  - Being fully in the present moment;
+  - Realizing that the ultimate goal is not the medal, or the
+    ribbon, but the path to mastery its self (The "I am" stage);
+  - Being willing to look foolish;
+  - Maintaining flexibility in your strategy, and in your
+    actions;
+  - A journey; and,
+  - Determination
+
+** Practice
+
+ - [[bib:coyle:2012][The Little Book of Talent | ]]Daniel Coyle
+ - [[bib:coyle:2009talent][The Talent Code]] | Daniel Coyle
+ - [[bib:colvin:2008talent][Talent is Overrated]] | Geoff Colvin
+ - [[bib:shibata:2017overlearning][Overlearning hyperstabilizes a skill by rapidly making
+   neurochemical processing inhibitory-dominant]] | Kazuhis
+   Shibata, etal.
+ - [[bib:greene:2012mastery][Mastery]] | Robert Greene
+ - [[bib:leonard:1992mastery][Mastery. The Keys To Success And Long Term Fulfillment]] |
+   George Leonard
+ 
