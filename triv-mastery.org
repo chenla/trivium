@@ -123,3 +123,20 @@ Mastery is:
  - [[bib:leonard:1992mastery][Mastery. The Keys To Success And Long Term Fulfillment]] |
    George Leonard
  
+** (Deep Work) => Flow
+
+  - [[https://www.robinwieruch.de/lessons-learned-deep-work-flow/][(Deep Work) => Flow]] | RWieruch
+
+#+begin_quote
+Shallow Work: “Non-cognitively demanding, logistical-style
+tasks, often performed while distracted. These efforts tend
+to not create much new value in the world and are easy to
+replicate.”
+
+Deep Work: “Professional activities performed in a state of
+distraction-free concentration that push you cognitive
+capabilities to their limit. These efforts create new value,
+improve your skill, and are hard to replicate.”
+
+-- [[https://www.robinwieruch.de/lessons-learned-deep-work-flow/][(Deep Work) => Flow]] | RWieruch
+#+end_quote
