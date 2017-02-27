@@ -140,3 +140,37 @@ improve your skill, and are hard to replicate.”
 
 -- [[https://www.robinwieruch.de/lessons-learned-deep-work-flow/][(Deep Work) => Flow]] | RWieruch
 #+end_quote
+
+
+** Care
+
+Deeply caring is central to everything....
+
+Steven Job's deeply cared about the products that he built,
+and lavished as much attention to the parts that people
+would never see as what they would.
+
+#+begin_quote
+But he also thought that there was a special kind of
+technological beauty, uniquely realizable in the medium of
+computers, which itself verged on, and sometimes attained,
+the status of art. Certainly he aspired to artistic
+success. In 1984, he had the signatures of the core
+Macintosh engineers engraved on the inside of the machine;
+in 1988, introducing the NeXTcube at Davies Symphony Hall,
+in San Francisco, he held up one of its circuit boards and
+called it “the most beautiful printed circuit board I’ve
+ever seen in my life.” (The audience applauded.) He loved
+“design,” but yearned for something grander and more
+emotional.
+
+-- [[http://www.newyorker.com/culture/cultural-comment/was-steve-jobs-an-artist][Was Steve Jobs an Artist?]]  | The New Yorker
+#+end_quote
+
+A stone carver working 25 meters off the ground, carving the
+backs of the heads of gargoyles that only the birds and bats
+would ever see would be in complete agreement with Jobs.
+
+
+Find references to Seattle legislature building with hidden
+sculptures
