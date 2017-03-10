@@ -48,3 +48,110 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+
+
+
+
+#+begin_quote
+I purchased The Art of Memory in January 2010, so it was what you
+could call a "slow burner." Basically, I bought it, read 20 pages and
+then put it on a book shelf for 18 month in order to occasionally look
+at it and go, "Nope." However, my attitude was changed when I read
+Grimoires: A History of Magic Books, earlier this year. Grimoires
+spurred me to think about the relation of magic and occult knowledge
+to the transition from the religion centered European Middle Ages to
+the Scientific/Mathematical based present.
+
+Understanding the relationship between Magic and Modernity requires a
+great deal of context. Specifically, the mind-set or "mentalites" of
+people living back then, and how what we think today could possibly be
+related to how they thought then.
+
+The fulcrum point of this transition from "Middle Ages" to "Modernity"
+was the Renaissance: It was a point where old non Christian/Religious
+ideas were rediscovered AND new bodies of knowledge or "disciplines"
+(or, if you are really lame "discourses.") were combined with the
+existing religious mentalite of the folks living in France, Spain,
+Italy and Germany (not England.)
+
+The Art of Memory was an aspect of Rhetoric, and as such had a "place"
+in the medieval scheme of 'higher education.' Specifically, Rhetoric
+was a part of monastic scholars called the "trivium." (the other
+members were grammar and logic.) The Trivium was a medieval equivalent
+of our modern "reading, writing and 'rithmatic." Rhetoric, then, was
+"the study of the use of language with persuasive effect." (Wiki)
+
+An element of this study was the "Art of Memory." In the ancient,
+classic sense, the Art of Memory basically consisted of memorizing a
+specific impressive place/location, identifying the distinguishing
+points of interest inside the building and attaching the parts of your
+speech to those features to cue your memory during the speech you are
+no doubt giving.
+
+Basically, what happened in the Renaissance is that people started
+building out this "art of memory" and turned it into something much
+more complicated and interesting by adding levels of detail and
+incorporating different influences "into the mix" as it were. You
+could think of it like a modern musical category like rock music with
+all it's divergent paths, except here it's "types of art of memory."
+
+Over the course of the 16th and 17th century, the embellished
+Renaissance era rhetorical tradition went "psych," it went "straight"
+and it went "dark." The Renaissance twist on Rhetoric didn't each
+England until well into the 17th century/Elizabethan era, so most of
+the Art of Memory takes place on the continent, with the area of
+interest shifting from Italy (first), to France and Spain and then to
+England and Germany.
+
+The psych tradition of Rhetoric incorporated Kabbalistic letter study,
+psuedo-Classical Egyptian Style Occultism and Astrology into the
+mix. Readers, who were undoubtedly either Italian noblemen, Artists or
+Students or Parisian Students, were treated to convoluted metaphysical
+speculation and complex circular charts with wheels inside
+wheels. This psych twist was to maintain the ability to inspire right
+down into the modern period. In one of The Art of Memory's pay-off
+chapters, Yates makes the (convincing) argument that the Masonic
+Imagery of buildings and occultism descends from the last remnants of
+this psych Rhetoric style, specifically the writings Giordano
+Bruno. Bruno was an author who was super obscure and elaborate, and he
+operated at the end of the period surveyed in France, England and
+Germany. Yates makes the case that it is plausible that he could have
+been responsible for inspiring Shakespearean drama in England the
+Masonic movement in Germany.
+
+I think he makes a good case in that regard, and I think Modern
+Library agrees because it was named "One of Modern Library's 100 Best
+Nonfiction Books of the Twentieth Century."
+
+The "straight" tradition of Rhetoric represented the integration first
+of the religious philosophy of Thomas Aquinas, including his
+neo-platonism. One of the main differences in the beginning of the
+split of Rhetoric between "psych" and "straight" is the effort to
+maintain and amplify the complexity of the art of memory while
+stripping it of it's more visual elements. What starts in the Catholic
+church continues through the Reformation. Yates points out that the
+move by "straight" Rhetoricians to elaborate their own "Art of Memory"
+has an analog in the icon smashing paroxysms of the Reformation. This
+branch of Rhetoric influenced early Modern Philosophers and Science,
+and was quite crucial in the crystallization of the idea of "Method"
+(as used in "THE SCIENTIFIC METHOD") in addition to being the obvious
+point of departure for modern Philosophy.
+
+The "dark" tradition of Rhetoric is largely ignored by Yates, but if
+you are interested in that wing, check out Davies Grimoires: A History
+of Magic Books. I think that it's quite clear that modern ideas of
+witchcraft, devil worship, magic spells, witches etc is largely bound
+up in this "dark wing" of Rhetoric. The overlap between the "psych"
+wing and the "dark" wing is substantial, but obviously the dark stuff
+was more controversial, and psych stuff was itself suspect because it
+incorporated occult materials via classical or pseudo-classical
+sources.
+
+All of these areas seem like fertile fields for inspiration, since
+they hover right at the edge of mentality, like a barely remembered
+folk tale. The imagery itself is quite elaborate and the source
+material is not accessible to the general public.
+
+
+-- [[https://www.amazon.com/gp/customer-reviews/RIGRYG8L7ZBCM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0226950018][Top 100 Non Fiction of Twentieth Century: Merited]] | S.Pactor, Amazon Review
+#+end_quote
