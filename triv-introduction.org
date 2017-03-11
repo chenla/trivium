@@ -99,3 +99,50 @@ in combination with Skepticism and Epicureanism.
   - Plug-in Philosophy of Life
   - Plug-in Phlosophy of lifelong learning
 
+* Trivium
+ :: Scope
+
+** Intro
+the tools needed to study the quadrivium
+
+  - Grammar  :: symbol systems to communicate and manipulate langauge
+    - written language -- tools to express written language - chalk,
+      ink and bits.  
+    - reading :: 4 kinds
+    - etymology :: history & conext of words
+    - history :: time as narratives 
+      - process philosophy
+      - oral, written & code traditions
+    - number :: 
+    - code :: dynamic manipulation of text (everything is text)
+    - maps :: spatial symbol systems
+    - bitmaps :: images / video
+    - geometry / vectors :: 
+    - audio ::    
+  - Logic    ::
+    - analytical and synoptic reading
+  - Rhetoric :: communication
+    - composition
+    - communication
+    
+The Trivium should be started at the age of 11, no earlier.  At this
+age the child is able to begin to comprehend complex and abstract
+concepts.
+
+The Trivium provides the child with the intellectual tools to express
+thoughts in spoken, written and code form, communicate with others,
+and to think rationally and critically.
+
+These arts will be a foundation that the child will be able use the
+rest of their lives and form the basis for self-directed and directed
+study in the future.
+
+**** Subjects included
+
+- history
+- literature
+- 
+
+** Grammar
+** Logic
+** Rhetoric
