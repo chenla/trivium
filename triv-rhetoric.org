@@ -161,3 +161,59 @@ material is not accessible to the general public.
 
 -- [[https://www.amazon.com/gp/customer-reviews/RIGRYG8L7ZBCM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0226950018][Top 100 Non Fiction of Twentieth Century: Merited]] | S.Pactor, Amazon Review
 #+end_quote
+
+* Rhetoric Links
+** What did Rhetoric teach?
+
+Martianus Capella, /Marriage/, bk. V, trans. Stahl, pp. 155-214
+
+Cassiodorus, /Institutions/, bk. II, chap. II, trans. Halporn, pp.
+178-88 [Chalk]
+
+
+Martin Camargo, ﾒRhetoric,ﾓ in /The Seven Liberal Arts/, ed. Wagner, pp.
+96-124 [Chalk]
+
+** /Rhetorica christiana/
+
+Augustine of Hippo, /On Christian Doctrine/, bk. IV, trans. J.F. Shaw,
+pp. 154-203 [CCEL http://www.ccel.org/a/augustine/doctrine/]
+
+Bede, /De schematibus et tropis/ [ﾒConcerning Figures and Tropesﾓ],
+trans. Gussie Hecht Tannenhaus, in /Readings in Medieval Rhetoric/, eds.
+Miller et al., pp. 96-122 [Chalk; Reg]
+
+ 
+** /Ars poetica/
+
+Matthew of Vend冦e, /Ars versificatoria/ [/The Art of Versification/],
+trans. Aubrey E. Galyon (Ames: Iowa State University Press, 1980), pp.
+25-112 [Chalk]
+
+Geoffrey of Vinsauf, /Poetria nova/, trans. Margaret F. Nims (Toronto:
+Pontifical Institute of Mediaeval Studies, 1967), pp. 15-93 [Chalk]
+
+** /Ars dictaminis/
+
+John of Garland, /Parisiana poetria/, ed. and trans. Traugott Lawler
+(New Haven: Yale University Press, 1974), chaps. 1-4, 7, pp. 3-83,
+143-59 (odd numbered pages) [Chalk]
+
+Anonymous of Bologna, /Rationes dictandi/ [/The Principles of
+Letter-Writing/], trans. James J. Murphy, in /Three Medieval Rhetorical
+Arts/, ed. James J. Murphy (Berkeley and Los Angeles: University of
+California Press, 1971), pp. 3-25 [Chalk; Reg]
+
+
+** /Ars praedicandi/
+
+Thomas of Chobham, /Summa de arte praedicandi/, in /Medieval Grammar and
+Rhetoric/, eds. Copeland and Sluiter, pp. 614-38 [Chalk; Reg]
+
+Robert of Basevorn, /Forma praedicandi/ [/The Form of Preaching/],
+trans. Leopold Krul, O.S.B., in /Three Medieval Rhetorical Arts/, ed.
+Murphy, pp. 111-215 [Chalk; Reg]
+
+
+ 
+
