@@ -48,3 +48,39 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+* Dialectic Links
+
+** What did Dialectic teach?
+
+Martianus Capella, /Marriage/, bk. IV, trans. Stahl, pp. 106-154
+
+Cassiodorus, /Institutions/, bk. II, chap. III, trans. Halporn, pp.
+188-208 [Chalk]
+
+ 
+Eleanore Stump, ﾒDialectic,ﾓ in /The Seven Liberal Arts/, ed. Wagner,
+pp. 125-46 [Chalk; Reg]
+
+ 
+
+** The Problem with Education These Days
+
+John of Salisbury, /Metalogicon/, Prologue; bk. I, chaps. 1-12; bk. II,
+chaps. 1-20; trans. McGarry, pp. 3-37, 73-141
+
+ 
+
+** The Point of It All
+
+John of Salisbury, /Metalogicon/, bks. III-IV, trans. McGarry, pp. 142-276
+
+ 
+
+** Applied Dialectic: Universals and Particulars
+
+Aristotle, Porphyry, Boethius, Garlandus Compotista, and Abelard, in
+/Basic Issues in Medieval Philosophy/, eds. Bosley and Tweedale, Topic
+VI, pp. 352-92 [Chalk]
+
+John of Salisbury, /Metalogicon/, bk. II, chaps. 17-20; bk. III, chaps.
+1-4; trans. McGarry, pp. 111-41, 146-70
