@@ -1,0 +1,126 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Grammar
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/trivium/triv-grammar.org
+  :Created: 2017-03-11T21:33@Prek Leap (11.642600N-104.919210W)
+  :ID: f067de9b-3c8f-4ae5-8403-245dd901aea0
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+* Grammar Links
+** What did Grammar teach?
+
+Martianus Capella, /Marriage/, bk. III, trans. Stahl, pp. 64-105.
+
+Cassiodorus, /Institutions of Divine and Secular Learning/, bk. II,
+preface, trans. James W. Halporn (Liverpool: Liverpool University Press,
+2004), pp. 171-78 [Chalk]
+
+Jeffrey F. Huntsman, ﾒGrammar,ﾓ in /The Seven Liberal Arts/, ed. Wagner,
+pp. 58-95 [Chalk; Reg]
+
+** /Ars grammatica antiqua/
+
+Aelius Donatus, /Ars Minor/, /Ars Maior/, in /Medieval Grammar and
+Rhetoric/, eds. Copeland and Sluiter, pp. 82-99 [Chalk; Reg]
+
+Priscian, /Institutiones Grammaticae/ and /Institutio de Nomine
+Pronomine Verbo/, in /Medieval Grammar and Rhetoric/, eds. Copeland and
+Sluiter, pp. 167-89 [Chalk; Reg]
+
+Isidore of Seville, /Etymologiae/, in /Medieval Grammar and Rhetoric/,
+eds. Copeland and Sluiter, pp. 232-41 [Chalk; Reg]
+
+Alcuin, /Ars Grammatica/, in /Medieval Grammar and Rhetoric/, eds.
+Copeland and Sluiter, pp. 272-87 [Chalk; Reg]
+
+Glosses on Priscian by Remigius and His Followers, in /Medieval Grammar
+and Rhetoric/, eds. Copeland and Sluiter, pp. 299-310 [Chalk; Reg]
+
+
+** Reading the classics
+
+/Accessus ad auctores/[Introductions to the Authors], in /Medieval
+Literary Theory and Criticism, c. 1100-c.1375: The Commentary
+Tradition/, eds. A.J. Minnis and A.B. Scott, with David Wallace, rev.
+ed. (Oxford: Clarendon Press, 1988), pp. 12-36 [Chalk]
+
+Conrad of Hirsau, ﾒDialogue on the Authors,ﾓ in /Medieval Literary
+Theory/, eds. Minnis and Scott, pp. 37-64 [Chalk]
+
+ 
+
+** Thinking grammatically
+
+Anselm of Canterbury, /De grammatico/, in /The Major Works/, eds. Brian
+Davies and G.R. Evans (Oxford: Oxford University Press, 1998), pp.
+123-50 [Chalk]
+
+John of Salisbury, /Metalogicon/, bk. I, chaps. 13-25, trans. McGarry,
+pp. 37-72 [Sem Co-op; Reg]
+
+ 
+
+** /Ars grammatica nova/
+
+Alexander of Villa Dei, /Doctrinale/, in /Medieval Grammar and
+Rhetoric/, eds. Copeland and Sluiter, pp. 573-83 [Chalk; Reg]
+
+Eberhard of B師hune, /Graecismus/, in /Medieval Grammar and Rhetoric/,
+eds. Copeland and Sluiter, pp. 584-93 [Chalk; Reg]
+
+ 
+
+James J. Murphy, ﾒThe Teaching of Latin as a Second Language in the
+Twelfth Century,ﾓ in /Latin Rhetoric and Education in the Middle Ages
+and Renaissance /(Aldershot: Ashgate/Variorum, 2005), III [Chalk]
+
+Robert Black, ﾒThe Vernacular and the Teaching of Latin in Thirteenth
+and Fourteenth-Century Italy,ﾓ /Studi Medievali/, 3^rd ser. 37 (1996):
+703-51 [Chalk]
+
+Nicholas Orme, ﾒJohn Holt (d. 1504), Tudor Schoolmaster and Grammarian,ﾓ
+/The Library/, 6^th ser. 18.4 (December 1996): 283-304 [Chalk]
+
+ 
