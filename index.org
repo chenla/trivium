@@ -65,6 +65,8 @@ githubchart -u deerpig ./img/contrib.svg
   - [[./triv-grammar.org][Grammar]]
   - [[./triv-logic.org][Logic]]
   - [[./triv-rhetoric.org][Rhetoric]]
+  - [[./triv-quadrivium.org][Quadrivium]]
+
 
   - [[./triv-notes.org][Notes]] | material that will be organized into other files
   
