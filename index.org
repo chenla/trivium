@@ -35,12 +35,12 @@ grave.  Learning is not a place, it is a process.
 Recent change activity on http://github.com/deerpig/deerpig-install
 
 #+BEGIN_SRC sh :exports results :results silent
-githubchart -u deerpig ./img/contrib.svg
+githubchart -u deerpig ~/proj/img/contrib.svg
 #+END_SRC
 
 #+RESULTS:
 
-[[./img/contrib.svg]]
+[[~/proj/img/contrib.svg]]
 
 #+HTML: <div class="contrib-legend text-small text-muted" title="A summary of pull requests, issues opened, and commits to the default and gh-pages branches.">
 #+HTML:  <span>Less</span>
@@ -65,6 +65,7 @@ githubchart -u deerpig ./img/contrib.svg
   - [[./triv-grammar.org][Grammar]]
   - [[./triv-logic.org][Logic]]
   - [[./triv-rhetoric.org][Rhetoric]]
+
   - [[./triv-quadrivium.org][Quadrivium]]
 
 
