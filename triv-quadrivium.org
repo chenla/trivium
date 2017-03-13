@@ -1,0 +1,80 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Quadrivium
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/trivium/triv-quadrivium.org
+  :Created: 2017-03-11T21:37@Prek Leap (11.642600N-104.919210W)
+  :ID: 8ab72d4b-c1dc-4b0c-8334-94ed52f3c629
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+
+* Status of This Document
+
+The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
+
+#+HTML: <div class="notice notice-info">
+*Changes since the last version*
+
+#+HTML: <ul>
+
+#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
+  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
+  if [ -z $RES ]; then
+    RES="<li>no changes</li>"
+  fi
+  echo $RES
+#+END_SRC
+
+#+RESULTS:
+#+BEGIN_EXPORT html
+<li>no changes</li>
+#+END_EXPORT
+
+#+HTML: </ul>
+#+HTML: </div>
+
+* Introduction
+
+
+* Quadrivium
+ :: Scope
+
+The original Quadrivium was made up of four subjects that each dealt
+with different aspects of number and magnitude: arithmetic, geometry,
+music and astronomy.  This originated with Plato's belief that the
+Universe could best be understood in terms of number.
+
+Our understanding of how the world works is far more complex and
+nuanced today.  And even though in recent years the idea that we live
+in a /mathematical universe/ has brought us full circle back to Plato
+in some respects, mathematics is still removed from physical reality
+and from mind.  Mathematics is very good at modeling the universe, but
+the universe is better unstood in terms of information.  Information
+is a gray area that sits somewhere between mathematics and the
+physical universe.  Information is directly connected to the physical
+universe, it requires energy to create and destroy it.  And
+increasingly information is being seen as the basic building block of
+the universe -- everything in the universe, space, matter and energy
+can be thought of as actualized information.  As if information was a
+computer program, that compiles into matter, energy and space.
+
+The new Quadrivium is made up of four subject that deal with different
+aspects of information; mimesis, rhizomata, systema and transacta.
+ 
+** Mimesis
+** Rhizomata
+** Systema
+** Transacta
