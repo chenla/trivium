@@ -162,6 +162,96 @@ material is not accessible to the general public.
 -- [[https://www.amazon.com/gp/customer-reviews/RIGRYG8L7ZBCM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0226950018][Top 100 Non Fiction of Twentieth Century: Merited]] | S.Pactor, Amazon Review
 #+end_quote
 
+* Malory Quote
+
+
+#+begin_quote
+But it is doubtful whether the literary genre thus created
+would have prospered as it did if it had not inherited at an
+early stage another feature of contemporary learning.  If
+/grammatica/ can be said to have shown how a given set of
+incidents could be explained and expanded, /rhetorica/, the
+second part of the Trivium, taught poets and story-tellers
+the proper use of imagination.  The discipline which in the
+later Middle-Ages was to be largely reduced to a mere
+stylistic ornamentation had not at that time lost its
+original composing function.  In a number of important works
+embodying the doctrine of the rhetoricians from by
+Quintilian onwards the term /colores rhetoricae/ refers, as
+in Cicero, not so much to formal elaboration as to the
+'treatment of the matter' from the speaker's or writer's
+point of view.  There is a signiificant agreement in this
+respect between Quintilian and the three great medieval
+scholars closely connected with the Gallic tradition of
+rhetoric: Sidonius Apollinaris, Martianus Capella and John
+of Salisbury. Sidonius Apollinaris insists on the use of
+'colours' because they 'provide boys' themese with pieces to
+weave in' and enable the orator to display his talent
+despite the meagerbess of his case.  Martianus Capella in
+his allegorical description of the seven arts speaks of
+rhetoric as /rerum omnium regina/ who has shown 'the power
+to move men whither she pleases, or whence, to bow them to
+tears, to incite them to rage, to transform the mien and
+feeling.  And John of Salisbury goes so far as to attribute
+to rhetoric the function normally assumed by /dialectica/:
+he uses the term /probani colores/ in the sense of
+'amplification of proof', and like his redecessors looks to
+rhetoric for means of persausion.  Rhetoric provided
+prospective romance writers with three main types of
+exercice.  First they were shown how to paraphrase some
+speeches in the /Aeniad/ (/loci Vergliani/); next came the
+/dictiones ethicae/, or solilioquies with which persons in
+history or mythology could be credited on certain
+occasions.  The third and most advanced stage of rhetorical
+training was reached in the /controversiae/, or
+disquistitions on general subjects, of which  there are many
+strikig examples in the letters of Sidonius Apollinaris.
+All this was, of course, originally intended for use in
+discourses, not in works of fiction, but in the common
+confusion between the notion of /narratio/ ('statement of
+facts in a discourse') and 'narrative', which can be traced
+as far back as Quintilian, helped to transfer to
+imagainative literature what was in reality a method of
+declamation, and the process was further facilitated by the
+fact that, as some passages of Sidonius clearly suggest,
+/declamatio/ was itself treated as a literary form alongside
+the /epos tragoediarum/, the /comoedia/, and the /satira/.
+Nothing seems more natural therefore, thanthat rhetorical
+devices should have been used for purposes of orginal
+composition.  And so, after having been trained by the
+grammarians to react to an articulate manner to works of
+Latin antiquety, romance writers were able to aquire from
+the rhetoricians the habit of expressing through a /fabula/
+or /historia/ a point of view of their own.
+
+This habit more than any other single factor helped to shape
+courtly romance.  Whatever the subject of the narrative, its
+function as conceived by the twelfth- and thirteenth-century
+poets is to serve as an expression of a certain type view of
+life which we usually describe as 'courtly' to translate in
+terms of actions and characters certain subtle varieties of
+ssentiment and highly sophisticated code of behaviour.  A
+romance might recall the legendary exploits of King Arthur's
+knights, or some imaginary event at the court of Byzantium,
+or again some episode placed in contemporary French setting;
+what it primarily endevours to do it not to give an
+impression of life in the lands and the times to which it
+subject-matter ostensibly belongs, but to use this
+subject-matter as a means of conveying a coherent system of
+ideas. 
+
+pg lxxiv-lxxix
+
+/The Works of Sir Thomas Malory/. Ed. Vinaver, Eugène
+(1967). 2nd ed. 3 vol. Oxford: Clarendon Press. [[https://en.wikipedia.org/wiki/Special:BookSources/0198118384][ISBN 0-19-811838-4]].
+#+end_quote
+
+:SEE: [[https://en.wikipedia.org/wiki/Le_Morte_d%27Arthur][Le Morte d'Arthur]] | Wikipedia
+
+[[https://en.wikipedia.org/wiki/Gustav_Gr%C3%B6ber][Gustav Gröber]]     | Wikipedia
+[[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]]    | Wikipedia
+[[https://en.wikipedia.org/wiki/John_of_Salisbury][John of Salisbury]] | Wikipedia
+
 * Rhetoric Links
 ** What did Rhetoric teach?
 
