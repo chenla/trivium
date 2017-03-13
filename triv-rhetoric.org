@@ -53,7 +53,7 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 - [[bib:yates:2016memory][The Art of Memory]] | Yates
 - [[bib:smile:2012memory][The Memory Palace - Learn Anything and Everything]] | Smile
-- [[bib:davies:2009grimoires][Grimoires: A History of Magic Books]]
+- [[bib:davies:2009grimoires][Grimoires: A History of Magic Books]] | Davies
 
 
 The Art of Memory was part of the medieval Trivium....
