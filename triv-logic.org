@@ -120,6 +120,19 @@ including the doctoral work of Walter Ong, has been taken up
 with untangling the twists and turns of this s0-called
 scholastic enterprise.
 
+The language arts of the Renaissance -- 'Renaisance
+argument' in Mack's terms -- arose from authors interested
+in the power of persuasion as well as the logic of
+argumentation.  They, too, focused on the use of language,
+but, in the process, highlighted the impact of classical
+prose and poetry on grammar and rhestoric.  Such early
+humanists accepted the merits of dialectic (or logical
+analysis), provided it was used as a basis for oratory, and
+not as an end in itself.  The incursion of oratory, however,
+prompted the claims of rhetoric.  Peter Mack succinctly
+describe the link between rhetoric and oratory:
+
+   
 
 -- [[bib:hamilton:2003instruction][Instruction in the Making]] | Hamilton
 #+end_quote
