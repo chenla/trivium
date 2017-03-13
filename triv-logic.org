@@ -89,7 +89,36 @@ the capacity to produce Latin employed in the higher arts
 a history of how such 'good' Latin was characterised as a
 body of knowledge to be learned, from and through.
 
+Then, as now, learning a language was more than learning a
+formal grammar.  It also included the appriciation of
+vocabulary and word order.  To this extent, grammar spilled
+over into the other elements of the Trivium.  If grammar
+involved stringing words together, dialectic involved
+stringing together propositions to make plausible (or
+logical) arguments and rhetoric involved stringing words and
+propositions together so an argument also became
+persuasive.  Overall, the trivium embraced the strining of
+words together to create arguments that were both plausible
+(dialectic) and persuasive (rhetoric).
 
+As suggested, the fortunes of the language arts waxed and
+waned in the humanist-scholastic debate.  Medieval
+scholasticism, for instance, was an expression of the
+dominance of logic and, with it, the importance attached to
+argumentation.  Attention to argumentation, reasoning, logic
+and truth -- also known as aristotelian logic (because it
+was based on certain texts attributed to Aristotle) -- had
+been the core theological activity of the latter part of the
+Middle Ages (1150-1450).
+
+The search for logical rigour included attention to textual
+deatil, identification of the shortcomings of earlier
+commentators, invention of more precise terms and the
+recalibration of earlier categories of thought.  Indeed,
+much of the secondary historical literature on the trivium,
+including the doctoral work of Walter Ong, has been taken up
+with untangling the twists and turns of this s0-called
+scholastic enterprise.
 
 
 -- [[bib:hamilton:2003instruction][Instruction in the Making]] | Hamilton
