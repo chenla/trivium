@@ -48,6 +48,55 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+#+begin_quote
+To appreciate the form and content of these debates, it is
+convenient to start with the so-called /trivium/, the triad
+of topics -- grammar, dialectic and rhetoric -- that served
+at the lower tier of the Seven Liberal Arts.  These
+categories, personified  as the deven daughters of
+philosophy, comprised 'the rational endeavours of man'
+(Katzenellenbogen, 1966, pp.47 &.39). To become rational
+beings, learners should acquire such knowledge.  In
+discussions of the trivium, dialectic is sometimes given an
+alternative label -- logic; as indicated in the remainder of
+this paper, medieval logic was not the same as the humanist
+dialectic.
+
+*Knowledge and Communication*
+
+The Liberal Arts comprised yesterdays learning that was to
+be learned by tomorrow's male adults.  The Liberal Arts were
+self-referential.  They were both structured bodies of
+knowledge and structured instruments for the communication
+of knowledge.  To learn /from/ previous knowledge was also
+to learn /through/ previous knowledge.  At the same time,
+however, the structure of the Liberal Arts was ill-defined.
+They were fluid rather than fixed bodies of knowledge and,
+as a result their form as communication media was equally
+imprecise.  They were more texts than textbooks.
+
+The same argument applies to the trivium.  It is more easily
+understood as an amorphous stage of learning than as a
+henady set of tools for learning.  Collectively, grammar,
+dialectic and rhetoric related to knowledge about -- and for
+-- human communication.  Grammar was the chassis of
+communcation, and dialectic and rhetoric comprised knowledge
+about how the bodywork of communication should be moulded
+and finished.  If knowledge and grammar fostered the ability
+to write or speak Latin, dialectic and rhetoric underpinned
+the capacity to produce Latin employed in the higher arts
+(notably theology).  Further, the history of the trivium is
+a history of how such 'good' Latin was characterised as a
+body of knowledge to be learned, from and through.
+
+
+
+
+-- [[bib:hamilton:2003instruction][Instruction in the Making]] | Hamilton
+#+end_quote
+
+
+
 * Dialectic Links
 
 ** What did Dialectic teach?
