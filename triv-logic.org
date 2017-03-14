@@ -214,6 +214,23 @@ external activity of speaking and writing (cf. debating).
 Accordingly, dialectic acquired, Ong suggested, a 'curious
 double-teaching charge' that was 'characteristic of Ramism':
 
+   Like every other art, it is teaching (doctrina) by the
+   very fact that it is an art (ars), but it is further the
+   art or teaching of teaching' (Ong, 1958,p.161).
+
+This view was typified in a later comment on Ramus'
+proposals: 'speech teaches; reason learns; therefore
+dialectic is the art of teaching and learning' (Johann
+Piscator, quoted in Rummel, 1995,p.174; for further
+discussion see Ong, 1958,p.161). Models of learning or
+self-instruction became models for instruction.  A model for
+aquiring knowledge (learning) became a model for
+communicating knowledge (dialectic) and a model for
+transmitting knowledge (instruction).  The language arts or
+humanism were, in Ramist circles, transformed intto the
+instructional arts of the humanities.
+
+
 
 -- [[bib:hamilton:2003instruction][Instruction in the Making]] | Hamilton
 #+end_quote
