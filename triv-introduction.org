@@ -98,7 +98,49 @@ in combination with Skepticism and Epicureanism.
     of how the Universe works based on the scientific method.
   - Plug-in Philosophy of Life
   - Plug-in Phlosophy of lifelong learning.
- 
+
+* Learning -- onion
+
+think of learning as something akin to the human brain which is made
+up in successive layers -- with the reptilian brain at the core, and
+eventually adding the limbic system and finally the neocortex
+
+It's important that knowledge is taught as if it is an onion that is
+builds layer apon layer until reaching the present state of knowledge
+at the outside which can then be the basis for building new layers.
+
+Knowing how we have come to know something is important because it
+includes all of the blind alleys and walls that we kept running up
+against before finally surmounting them to build up the next layer of
+the onion.  The history of knowledge is all about how to build better
+mousetraps by first knowing all of the past mousetraps that have been
+devised in the past, and how they have worked or not....
+
+
+* Scopic Trivium
+
+can't separate trivium from Latin -- this is important, because we
+will be teaching english as a foriegn lanaguage, even to native
+speakers -- it will be a very specific language designed to bridge
+generations and linguistic drift so that texts will remain in use over
+very long time frames.
+
+This will be especially important for scientific papers and cannonical
+works -- and translation of older english works into scopic english
+will have to be undertaken -- or at the least that editions are
+presented that provide glossa and scholia that define anything that
+falls outside of Scopic vocabulary and usage. 
+
+This will especially be important for technical terms -- which go in
+and out of vogue far more often than might be thought....
+
+The Scopic Trivium this will include:
+
+   - english (a defined subset that will change slower than the
+     vernacular)
+   - scopic a SDL (domain-specific-language)
+   - incantation script (based on CJK)
+
 
 * Trivium
  
