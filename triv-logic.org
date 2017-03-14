@@ -230,7 +230,29 @@ transmitting knowledge (instruction).  The language arts or
 humanism were, in Ramist circles, transformed intto the
 instructional arts of the humanities.
 
+This-double-teaching charge -- or the translation of
+teachings into teaching -- is also probed by the question:
+who were the readers of /De inventione dialectica/?  Was it
+written as a guide to self-study?  Was it prepared for
+guided self-study (i.e. domestic tutoring)?  Or was it a
+book to be placed unambiguously in the hands of school
+keepers?  Again, Ong notes the fluidity of this issue,
+insofar as. Agricola's text:
 
+   might well be headed 'What Boys Should Know about
+   Discourse' or, better, since it is addressed to teachers
+   rather than pupils, 'Thoughts on Discourse and How to
+   Teach It' (Ong 1968,p.100)
+
+Printing houses were also sensitive to this problem, a
+factor which underpinned the Ramist publishing triumph.
+Ong, for instance, distinguishes the 'pupil-centered' stance
+adopted by the humanists (whose texts were accommodated "to
+real-life" and to the real pedagogical situation') from the
+'teacher-oriented'[ attitude taken within the aristotelean,
+lecturing milieux that survived in certain
+universities. (Ong.1958,p 97)-- often those with links to
+the philosophy of Thomas Aquinas.
 
 -- [[bib:hamilton:2003instruction][Instruction in the Making]] | Hamilton
 #+end_quote
