@@ -162,7 +162,7 @@ The Scopic Trivium this will include:
 
    - english (a defined subset that will change slower than the
      vernacular)
-   - scopic a SDL (domain-specific-language)
+   - scopic a DSL (domain-specific-language)
    - incantation script (based on CJK)
 
 
