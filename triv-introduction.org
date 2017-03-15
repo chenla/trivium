@@ -276,4 +276,15 @@ study in the future.
 
 ** Grammar
 ** Logic
+
+#+begin_quote
+Man, being the servant and interpreter of Nature, can do and
+understand so much and so much only as he has observed in
+fact or in thought about the order of Nature: beyond this he
+neither knows anything nor can do anything [p. 47].
+
+-- Francis Bacon
+#+end_quote
+
+
 ** Rhetoric
