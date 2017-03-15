@@ -353,7 +353,7 @@ words that have been written and preserved through the
 centuries or millennia.
 
 
-** Logic
+** Dialectic
 
 #+begin_quote
 Man, being the servant and interpreter of Nature, can do and
@@ -363,6 +363,33 @@ neither knows anything nor can do anything [p. 47].
 
 -- Francis Bacon
 #+end_quote
+
+Dialectic in the Trivium has later been characterized as
+logic, especially aristotelian logic.  But it is better
+thought of as a dialectic -- an exchange of questions and
+answers that is meant to come to some kind of truth.
+
+It is the dialectic that questions the authority of grammar,
+it keeps grammar honest, and keeps moving the goalpost, by
+always taking facts and putting them into new contexts, that
+may or may not result in new facts, or discovery of
+falsehoods.
+
+To modern ears, logic seems to make a lot more sense -- but
+isn't the inductive empirical scientific method just that?
+Putting questions to things, making observations (which
+answer back) that results in new understandings of the
+world?
+
+It's too easy to label the dialectic as simply the Socratic
+Method, but that is only a small part of it.  Sure, you're
+subjected to it in Harvard Law School -- though the
+teachers, if the film, The Paper Chase is any indication,
+are really hardcore grammerian's in dialectical clothing....
+
+but if this is at the heart of the scientific method and
+pretty much the foundation of our civilization, then it is
+pretty damn important.
 
 
 ** Rhetoric
