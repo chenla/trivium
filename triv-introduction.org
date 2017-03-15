@@ -299,6 +299,27 @@ study in the future.
 - 
 
 ** Grammar
+
+#+begin_quote
+Religions and leaders, however, soon saw the potential of
+writing and used it to help establish their own mythology
+and rules. It was clear that the written word had power; due
+to its permanence it had become a symbol of authority. This
+meant that rules could become fixed; something is more
+difficult to challenge when it is written down. The
+accountants, bureaucrats, pedantic rule makers,
+authoritarians, and religious zealots were all early
+adopters of written language; the poets, dramatists,
+philosophers, novelists, and journalists were laggards. This
+monstrous conclusion perhaps could explain the problems that
+many have with the study of grammar. It is not that it isn’t
+needed and doesn’t exist in our utterances, but that the way
+it is taught – its rules and perceived lack of flexibility –
+is authoritarian.
+
+-- Trivium 21 Century
+#+end_quote
+
 ** Logic
 
 #+begin_quote
