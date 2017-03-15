@@ -369,6 +369,11 @@ logic, especially aristotelian logic.  But it is better
 thought of as a dialectic -- an exchange of questions and
 answers that is meant to come to some kind of truth.
 
+In fact dialectic has been called not just logic, but logos
+as well.  Logos is a slippery word which has changed in
+meaning over time.  Christians define it as sort of
+"universal truths" from God but it also simply means /word/.
+
 It is the dialectic that questions the authority of grammar,
 it keeps grammar honest, and keeps moving the goalpost, by
 always taking facts and putting them into new contexts, that
@@ -391,14 +396,13 @@ but if this is at the heart of the scientific method and
 pretty much the foundation of our civilization, then it is
 pretty damn important.
 
-The thing is, the dialectic is messy -- it's not neat and
-orderly and tied up with a bow like grammar.  And it's not
-dolled up on the podium spouting crooning or bellowing or
-doing whatever it takes to convince -- rhetoric and grammar has an
+The thing is, the dialectic is messy, it embraces
+uncertainty, complexity and contradiction -- it's not neat
+and orderly and tied up with a bow like grammar.  And it's
+not dolled up on the podium spouting or bellowing or doing
+whatever it takes to convince -- rhetoric and grammar has an
 agenda which is based on certainty.  Dialectic just smiles
 and reminds us that we're talking out of our asses.
-
-
 
 
 ** Rhetoric
