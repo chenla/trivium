@@ -96,7 +96,7 @@ information was even cruder.
 
 This is no longer the case, and the miracle of the assembly
 line and industrial processes no longer need to be done at
-scale to achieve the same economies of scale.  Our abaility
+scale to achieve the same economies of scale.  Our ability
 to leverage information is making industrial economies
 increasingly distributed and federated.  And over the coming
 decades this shift will displace and replace traditional
