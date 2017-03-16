@@ -48,6 +48,18 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 
 * Introduction
 
+Searching for the word 'Trivium' results in a short list of
+results, with a terse article in Wikipedia, Dorothy Sayer's
+famous essay and Sister Mirium Joseph's book that is
+deservedly called a classic.  Beyond that there are variety
+of essays and a few books that call themselves variations on
+'the new trivium'.  A few are well researched and thought
+out.  Most, including not a few papers in peer reviewed
+academic journals are decidedly not.
+
+
+
+
 Keep in mind that this not the Medieval Trivium, though much
 has been borrowed from it, including a lot of
 nomenclature. It would be better to call this the /Scopic
