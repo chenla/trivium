@@ -91,8 +91,6 @@ between grammar, dialectic, and rhetoric.
 -- Trivium 21 Century
 #+end_quote
 
-
-
 In a way it's amazing that it held together at all, for so
 long, with all three splitting in a very messy divorce will
 all parties claiming that they keep the children...
@@ -140,6 +138,20 @@ cumbersome as a concept than they are worth.  Like the
 existence of the  æther, which was thought to be a universal
 medium through which allowed light and gravity to travel in
 a vacuum, the plato's world of forms is simply not needed.
+
+Does this mean I am advocating an Aristotelian view:
+
+#+begin_quote
+The grammarian will tell it like it is, either by agreed
+practice or imposed rules; the Socratic dialectician will
+ask about it until it is no longer; the Platonic
+dialectician will discuss it until ‘ultimate truth’ is
+revealed; and the Aristotelian dialectician will use an
+approach that should uncover possible truths with differing
+degrees of probability.
+
+-- Trivium 21 Century
+#+end_quote
 
 
 * Scopic Philosophy
