@@ -175,3 +175,9 @@ would ever see would be in complete agreement with Jobs.
 Find references to Seattle legislature building with hidden
 sculptures
 
+* Things You Should Know
+
+  - [[http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know][97 Things Every Programmer Should Know]] | O'Reilly Media
+  - [[http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions][Other Edited Contributions]] | O'Reilly Media
+  - [[http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book][Contributions Appearing in the Book]] | O'Reilly Media
+
