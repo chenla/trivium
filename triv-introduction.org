@@ -732,3 +732,34 @@ can only make a botched and piecemeal job of it.
 
 -- Dorothy Sayers | The Lost Tools of Learning, 1948
 #+end_quote
+
+#+begin_quote
+It would be well, I think, that each pupil should learn to
+do one, or two, subjects really well, while taking a few
+classes in subsidiary subjects so as to keep his mind open
+to the inter- relations of all knowledge. Indeed, at this
+stage, our difficulty will be to keep "subjects" apart; for
+Dialectic will have shown all branches of learning to be
+inter-related, so Rhetoric will tend to show that all
+knowledge is one.
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+
+#+begin_quote
+Is the Trivium, then, a sufficient education for life?
+Properly taught, I believe that it should be. At the end of
+the Dialectic, the children will probably seem to be far
+behind their coevals brought up on old-fashioned "modern"
+methods, so far as detailed knowledge of specific subjects
+is concerned. But after the age of 14 they should be able to
+overhaul the others hand over fist. Indeed, I am not at all
+sure that a pupil thoroughly proficient in the Trivium would
+not be fit to proceed immediately to the university at the
+age of 16, thus proving himself the equal of his mediaeval
+counterpart, whose precocity astonished us at the beginning
+of this discussion.
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
