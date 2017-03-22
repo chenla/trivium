@@ -626,19 +626,29 @@ development.
    | pert        | 12-14 | dialectic | questioning      |
    | poetic      | 14-16 | rhetoric  | onset of puberty |
 
+There are some wonderful insights to be certain, but she
+seems to fail to see that contradictions between grammar,
+dialectic and rhetoric -- and it is these contradictions
+which are the Trivium's greatest strength -- the Trivium is
+a toolbox -- that produce different results and are to be
+used in different ways.  But they also comprise very
+different ways of understanding the world which can't be
+reduced to grammar as being primarily for route-learning,
+even though route learning is grammar's core methodology.
 
 #+begin_quote
-Has it ever struck you as odd, or unfortunate, that today, when
-the proportion of literacy throughout Western Europe is higher
-than it has ever been, people should have become susceptible to
-the influence of advertisement and mass propaganda to an extent
-hitherto unheard of and unimagined? Do you put this down to
-the mere mechanical fact that the press and the radio and so on
-have made propaganda much easier to distribute over a wide
-area? Or do you sometimes have an uneasy suspicion that the
-product of modern educational methods is less good than he or
-she might be at disentangling fact from opinion and the proven
-from the plausible?
+Has it ever struck you as odd, or unfortunate, that today,
+when the proportion of literacy throughout Western Europe is
+higher than it has ever been, people should have become
+susceptible to the influence of advertisement and mass
+propaganda to an extent hitherto unheard of and unimagined?
+Do you put this down to the mere mechanical fact that the
+press and the radio and so on have made propaganda much
+easier to distribute over a wide area? Or do you sometimes
+have an uneasy suspicion that the product of modern
+educational methods is less good than he or she might be at
+disentangling fact from opinion and the proven from the
+plausible?
 
 -- Dorothy Sayers | The Lost Tools of Learning, 1948
 #+end_quote
@@ -646,12 +656,13 @@ from the plausible?
 
 #+begin_quote
 Do you often come across people for whom, all their lives, a
-"subject" remains a "subject," divided by watertight bulkheads
-from all other "subjects," so that they experience very great
-difficulty in making an immediate mental connection between
-let us say, algebra and detective fiction, sewage disposal and the
-price of salmon--or, more generally, between such spheres of
-knowledge as philosophy and economics, or chemistry and art?
+"subject" remains a "subject," divided by watertight
+bulkheads from all other "subjects," so that they experience
+very great difficulty in making an immediate mental
+connection between let us say, algebra and detective
+fiction, sewage disposal and the price of salmon--or, more
+generally, between such spheres of knowledge as philosophy
+and economics, or chemistry and art?
 
 -- Dorothy Sayers | The Lost Tools of Learning, 1948
 #+end_quote
@@ -709,26 +720,28 @@ order to "give himself the feel of the tool."
 #+begin_quote
 For we let our young men and women go out unarmed, in a day
 when armor was never so necessary. By teaching them all to
-read, we have left them at the mercy of the printed word. By the
-invention of the film and the radio, we have made certain that no
-aversion to reading shall secure them from the incessant battery
-of words, words, words. They do not know what the words
-mean; they do not know how to ward them off or blunt their
-edge or fling them back; they are a prey to words in their
-emotions instead of being the masters of them in their intellects.
-We who were scandalized in 1940 when men were sent to fight
-armored tanks with rifles, are not scandalized when young men
-and women are sent into the world to fight massed propaganda
-with a smattering of "subjects"; and when whole classes and
-whole nations become hypnotized by the arts of the spell binder,
-we have the impudence to be astonished. We dole out lip-service
-to the importance of education--lip- service and, just
-occasionally, a little grant of money; we postpone the school-
-leaving age, and plan to build bigger and better schools; the
-teachers slave conscientiously in and out of school hours; and
-yet, as I believe, all this devoted effort is largely frustrated,
-because we have lost the tools of learning, and in their absence
-can only make a botched and piecemeal job of it.
+read, we have left them at the mercy of the printed word. By
+the invention of the film and the radio, we have made
+certain that no aversion to reading shall secure them from
+the incessant battery of words, words, words. They do not
+know what the words mean; they do not know how to ward them
+off or blunt their edge or fling them back; they are a prey
+to words in their emotions instead of being the masters of
+them in their intellects.  We who were scandalized in 1940
+when men were sent to fight armored tanks with rifles, are
+not scandalized when young men and women are sent into the
+world to fight massed propaganda with a smattering of
+"subjects"; and when whole classes and whole nations become
+hypnotized by the arts of the spell binder, we have the
+impudence to be astonished. We dole out lip-service to the
+importance of education--lip- service and, just
+occasionally, a little grant of money; we postpone the
+school- leaving age, and plan to build bigger and better
+schools; the teachers slave conscientiously in and out of
+school hours; and yet, as I believe, all this devoted effort
+is largely frustrated, because we have lost the tools of
+learning, and in their absence can only make a botched and
+piecemeal job of it.
 
 -- Dorothy Sayers | The Lost Tools of Learning, 1948
 #+end_quote
