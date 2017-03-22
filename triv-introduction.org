@@ -763,3 +763,20 @@ of this discussion.
 
 -- Dorothy Sayers | The Lost Tools of Learning, 1948
 #+end_quote
+
+
+#+begin_quote
+What use is it to pile task on task and prolong the days of
+labor, if at the close the chief object is left unattained?
+It is not the fault of the teachers--they work only too hard
+already. The combined folly of a civilization that has
+forgotten its own roots is forcing them to shore up the
+tottering weight of an educational structure that is built
+upon sand. They are doing for their pupils the work which
+the pupils themselves ought to do. For the sole true end of
+education is simply this: to teach men how to learn for
+themselves; and whatever instruction fails to do this is
+effort spent in vain.
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
