@@ -627,3 +627,32 @@ development.
    | poetic      | 14-16 | rhetoric  | communicating  |
 
 
+#+begin_quote
+Has it ever struck you as odd, or unfortunate, that today, when
+the proportion of literacy throughout Western Europe is higher
+than it has ever been, people should have become susceptible to
+the influence of advertisement and mass propaganda to an extent
+hitherto unheard of and unimagined? Do you put this down to
+the mere mechanical fact that the press and the radio and so on
+have made propaganda much easier to distribute over a wide
+area? Or do you sometimes have an uneasy suspicion that the
+product of modern educational methods is less good than he or
+she might be at disentangling fact from opinion and the proven
+from the plausible?
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+
+#+begin_quote
+Do you often come across people for whom, all their lives, a
+"subject" remains a "subject," divided by watertight bulkheads
+from all other "subjects," so that they experience very great
+difficulty in making an immediate mental connection between
+let us say, algebra and detective fiction, sewage disposal and the
+price of salmon--or, more generally, between such spheres of
+knowledge as philosophy and economics, or chemistry and art?
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
