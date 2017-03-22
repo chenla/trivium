@@ -622,9 +622,9 @@ Learning/ is interesting in many respects -- I especially
 like how she maps the Trivium into childhood cognitive
 development.
 
-   | poll-parrot |  9-11 | grammar   | route learning |
-   | pert        | 12-14 | dialectic | questioning    |
-   | poetic      | 14-16 | rhetoric  | communicating  |
+   | poll-parrot |  9-11 | grammar   | route learning   |
+   | pert        | 12-14 | dialectic | questioning      |
+   | poetic      | 14-16 | rhetoric  | onset of puberty |
 
 
 #+begin_quote
