@@ -369,6 +369,30 @@ The Scopic Trivium this will include:
    - incantation script (based on CJK)
 
 
+* Truth
+
+Aristotle's set of basic axioms from which he
+derived the rest of his logical system:
+
+   - An object is what it is (Law of Identity)
+   - No statement can be both true and false (Law of
+     Non-contradiction)
+   - Every statement is either true or false (Law of the
+     Excluded Middle)
+
+This is the foundation for all of logic!  And here I am
+throwing a spanner into the works and saying that these
+three things are true and not true in a fnord because this
+is how things are in nature as well -- in quantum mechanics
+both states exist until it has been observed.
+
+  The Cat Is Alive
+  The Cat Is Dead
+
+are both true statements until you peek into the box.
+
+
+
 * Trivium
  
 
@@ -401,9 +425,6 @@ trapped in their own bubble of desire, fear and hunger for
 power and status.  This is why people no longer trust
 institutions to provide truth, or justice, or even a living
 wage.
-
-
-
 
 ** Intro
 the tools needed to study the quadrivium
