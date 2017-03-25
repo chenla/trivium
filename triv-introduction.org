@@ -557,7 +557,8 @@ number of different scenarios of what this might look like,
 and it's not all bad.  Not all good either, but there is
 hope of a kind.
 
-
+  - [[https://soundcloud.com/officialsxsw/the-future-history-that-hasnt-happened-yet-sxsw-2017][The Future: History that Hasn’t Happened Yet]] | SXSW 2017 | SoundCloud
+  - [[https://www.wired.com/beyond-the-beyond/2017/03/bruce-sterling-speech-sxsw2017/][Bruce Sterling speech at SXSW2017]] | WIRED
 
 
 * Trivium
