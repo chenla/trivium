@@ -671,3 +671,181 @@ Look at oratory
 and then.... well nothing, even the so-called 'Great
 Communicator' Ronald Reagen left nothing in our collective
 memories except that people liked what he said. 
+* Dorothy Sayers
+
+Dorothy Sayers' well known essay /The Lost Tools of
+Learning/ is interesting in many respects -- I especially
+like how she maps the Trivium into childhood cognitive
+development.
+
+   | poll-parrot |  9-11 | grammar   | route learning   |
+   | pert        | 12-14 | dialectic | questioning      |
+   | poetic      | 14-16 | rhetoric  | onset of puberty |
+
+There are some wonderful insights to be certain, but she
+seems to fail to see that contradictions between grammar,
+dialectic and rhetoric -- and it is these contradictions
+which are the Trivium's greatest strength -- the Trivium is
+a toolbox -- that produce different results and are to be
+used in different ways.  But they also comprise very
+different ways of understanding the world which can't be
+reduced to grammar as being primarily for route-learning,
+even though route learning is grammar's core methodology.
+
+#+begin_quote
+Has it ever struck you as odd, or unfortunate, that today,
+when the proportion of literacy throughout Western Europe is
+higher than it has ever been, people should have become
+susceptible to the influence of advertisement and mass
+propaganda to an extent hitherto unheard of and unimagined?
+Do you put this down to the mere mechanical fact that the
+press and the radio and so on have made propaganda much
+easier to distribute over a wide area? Or do you sometimes
+have an uneasy suspicion that the product of modern
+educational methods is less good than he or she might be at
+disentangling fact from opinion and the proven from the
+plausible?
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+
+#+begin_quote
+Do you often come across people for whom, all their lives, a
+"subject" remains a "subject," divided by watertight
+bulkheads from all other "subjects," so that they experience
+very great difficulty in making an immediate mental
+connection between let us say, algebra and detective
+fiction, sewage disposal and the price of salmon--or, more
+generally, between such spheres of knowledge as philosophy
+and economics, or chemistry and art?
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+
+#+begin_quote
+Another quotation from the same issue of the TLS comes in
+fittingly here to wind up this random collection of disquieting
+thoughts--this time from a review of Sir Richard Livingstone's
+"Some Tasks for Education": "More than once the reader is
+reminded of the value of an intensive study of at least one
+subject, so as to learn Tthe meaning of knowledge' and what
+precision and persistence is needed to attain it. Yet there is
+elsewhere full recognition of the distressing fact that a man may
+be master in one field and show no better judgement than his
+neighbor anywhere else; he remembers what he has learnt, but
+forgets altogether how he learned it."
+I would draw your attention particularly to that last sentence,
+which offers an explanation of what the writer rightly calls the
+"distressing fact" that the intellectual skills bestowed upon us by
+our education are not readily transferable to subjects other than
+those in which we acquired them: "he remembers what he has
+learnt, but forgets altogether how he learned it."
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+#+begin_quote
+Is not the great defect of our education today--a defect
+traceable through all the disquieting symptoms of trouble
+that I have mentioned--that although we often succeed in
+teaching our pupils "subjects," we fail lamentably on the
+whole in teaching them how to think: they learn everything,
+except the art of learning. It is as though we had taught a
+child, mechanically and by rule of thumb, to play "The
+Harmonious Blacksmith" upon the piano, but had never taught
+him the scale or how to read music; so that, having
+memorized "The Harmonious Blacksmith," he still had not the
+faintest notion how to proceed from that to tackle "The Last
+Rose of Summer." Why do I say, "as though"? In certain of
+the arts and crafts, we sometimes do precisely
+this--requiring a child to "express himself" in paint before
+we teach him how to handle the colors and the brush.  There
+is a school of thought which believes this to be the right
+way to set about the job. But observe: it is not the way in
+which a trained craftsman will go about to teach himself a
+new medium. He, having learned by experience the best way to
+economize labor and take the thing by the right end, will
+start off by doodling about on an odd piece of material, in
+order to "give himself the feel of the tool."
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+#+begin_quote
+For we let our young men and women go out unarmed, in a day
+when armor was never so necessary. By teaching them all to
+read, we have left them at the mercy of the printed word. By
+the invention of the film and the radio, we have made
+certain that no aversion to reading shall secure them from
+the incessant battery of words, words, words. They do not
+know what the words mean; they do not know how to ward them
+off or blunt their edge or fling them back; they are a prey
+to words in their emotions instead of being the masters of
+them in their intellects.  We who were scandalized in 1940
+when men were sent to fight armored tanks with rifles, are
+not scandalized when young men and women are sent into the
+world to fight massed propaganda with a smattering of
+"subjects"; and when whole classes and whole nations become
+hypnotized by the arts of the spell binder, we have the
+impudence to be astonished. We dole out lip-service to the
+importance of education--lip- service and, just
+occasionally, a little grant of money; we postpone the
+school- leaving age, and plan to build bigger and better
+schools; the teachers slave conscientiously in and out of
+school hours; and yet, as I believe, all this devoted effort
+is largely frustrated, because we have lost the tools of
+learning, and in their absence can only make a botched and
+piecemeal job of it.
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+#+begin_quote
+It would be well, I think, that each pupil should learn to
+do one, or two, subjects really well, while taking a few
+classes in subsidiary subjects so as to keep his mind open
+to the inter- relations of all knowledge. Indeed, at this
+stage, our difficulty will be to keep "subjects" apart; for
+Dialectic will have shown all branches of learning to be
+inter-related, so Rhetoric will tend to show that all
+knowledge is one.
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+
+#+begin_quote
+Is the Trivium, then, a sufficient education for life?
+Properly taught, I believe that it should be. At the end of
+the Dialectic, the children will probably seem to be far
+behind their coevals brought up on old-fashioned "modern"
+methods, so far as detailed knowledge of specific subjects
+is concerned. But after the age of 14 they should be able to
+overhaul the others hand over fist. Indeed, I am not at all
+sure that a pupil thoroughly proficient in the Trivium would
+not be fit to proceed immediately to the university at the
+age of 16, thus proving himself the equal of his mediaeval
+counterpart, whose precocity astonished us at the beginning
+of this discussion.
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
+
+
+#+begin_quote
+What use is it to pile task on task and prolong the days of
+labor, if at the close the chief object is left unattained?
+It is not the fault of the teachers--they work only too hard
+already. The combined folly of a civilization that has
+forgotten its own roots is forcing them to shore up the
+tottering weight of an educational structure that is built
+upon sand. They are doing for their pupils the work which
+the pupils themselves ought to do. For the sole true end of
+education is simply this: to teach men how to learn for
+themselves; and whatever instruction fails to do this is
+effort spent in vain.
+
+-- Dorothy Sayers | The Lost Tools of Learning, 1948
+#+end_quote
