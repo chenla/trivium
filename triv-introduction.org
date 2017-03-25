@@ -532,6 +532,8 @@ possible, even as we rethink what it means to have the
 minimal education in a technologically advanced civilization
 in order to live a productive and meaningful life.
 
+** The Fate of the Doomed
+
 This doesn't address how we can help the doomed to live at
 least a comfortable life.  This is not the place to go into
 these kinds of scenarios, but the robotics revolution
@@ -555,7 +557,8 @@ a terrible waste of a life.
 In his 2017 annual speech at SXSW, Bruce Sterling outlined a
 number of different scenarios of what this might look like,
 and it's not all bad.  Not all good either, but there is
-hope of a kind.
+hope of a kind for a meaningful life for the doomed who are
+left behind.
 
   - [[https://soundcloud.com/officialsxsw/the-future-history-that-hasnt-happened-yet-sxsw-2017][The Future: History that Hasn’t Happened Yet]] | SXSW 2017 | SoundCloud
   - [[https://www.wired.com/beyond-the-beyond/2017/03/bruce-sterling-speech-sxsw2017/][Bruce Sterling speech at SXSW2017]] | WIRED
