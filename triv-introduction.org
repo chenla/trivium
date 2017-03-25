@@ -599,6 +599,28 @@ left behind.
   - [[https://www.wired.com/beyond-the-beyond/2017/03/bruce-sterling-speech-sxsw2017/][Bruce Sterling speech at SXSW2017]] | WIRED
 
 
+---
+
+Perhaps, we need to think of the institutions that make up
+civilization to be contradictory ways of looking at the
+world.  I don't want to just slot them into the Trivium
+subjects here -- we need those contradictions, and to learn
+to live with the uncertainty that those contradictions create.
+
+  - executive
+  - legislative
+  - judiciary
+  - watchdog
+  - education
+  - ...
+
+These are not just providing checks and balances, they are
+different perspectives of the world with different maps.  We
+tend to think of them as having different priorities, which
+is also true, but that may be missing as well -- perhaps
+each needs a guiding philosophy that defines that worldview.
+
+
 * Trivium
  
 
