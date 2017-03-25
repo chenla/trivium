@@ -555,9 +555,10 @@ docile.  Perhaps that will work for some but not all and is
 a terrible waste of a life.
 
 Clay Shirky wrote of how each technological revolution
-created /cognitive surplus/ of free time, and that the first
-of these revolutions resulted in at least one generation
-drinking themselves to death.
+created a /cognitive surplus/ of free time.
+
+The first of these revolutions resulted in at least one
+generation drinking themselves to death.
 
    See Braudel & Gin
 
@@ -572,7 +573,7 @@ giving people the means of production.  This is true to a
 point, but it does not give people the tools to think that
 provide people with the discipline and responsibility that
 comes with the means of production.  It's that tired tag
-line from Spiderman, "with great power comes greate
+line from Spiderman, "with great power comes great
 responsibility."  And the Internet is handing everyone that
 power without telling them that they come at a cost,
 sometimes a terrible cost that, for many people, if they
