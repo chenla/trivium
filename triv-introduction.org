@@ -413,7 +413,7 @@ understand that this is still an outlier, a thirty year
 outlier, but still an outlier.
 
 #+begin_quote
-excessive focus on things like vaccine denialists teaches
+...excessive focus on things like vaccine denialists teaches
 the wrong habits. It’s a desire to take a degenerate case,
 the rare situation where one side is obviously right and the
 other bizarrely wrong, and make it into the flagship example
@@ -425,6 +425,46 @@ machines.
 
 -- [[https://slatestarcodex.com/2017/03/24/guided-by-the-beauty-of-our-weapons/][Guided By The Beauty Of Our Weapons]] | Slate Star Codex
 #+end_quote
+
+But this is not simply a matter of a percentage of the
+population that insists on believing things which are
+patently untrue, it is compounded by Social Media, who has
+been telling everyone that their opinion is important, just
+as important any any /expert/.  And then give everyone a
+platform where /everyone/ is an expert, everyone is a leader
+and that no matter how stupid or wrong their opinions are,
+they are valid.
+
+#+begin_quote
+Everyone from statisticians to Brexiteers knows that they
+are right. The only remaining problem is how to convince
+others. Go on Facebook and you will find a million people
+with a million different opinions, each confident in her own
+judgment, each zealously devoted to informing everyone else.
+
+Imagine a classroom where everyone believes they’re the
+teacher and everyone else is students. They all fight each
+other for space at the blackboard, give lectures that nobody
+listens to, assign homework that nobody does. When everyone
+gets abysmal test scores, one of the teachers has an idea: I
+need a more engaging curriculum. Sure. That’ll help.
+
+-- [[https://slatestarcodex.com/2017/03/24/guided-by-the-beauty-of-our-weapons/][Guided By The Beauty Of Our Weapons]] | Slate Star Codex
+#+end_quote
+
+Before social media and the Internet there were many groups
+of people who believed stupid things, but these things
+happened in the Fashion Layer, the slower moving
+Institutional and Culturals layers would eventually level
+things out and bring things back into line.  But as the
+institutions that form the infrastructure for the Nation
+State strain under the immense load of information resulting
+by ever increasing rates of change, the Fashion layer is
+teetering on the brink of being cut adrift of the other
+layers.  When this happens, it is usually a precurser to a
+collapse.
+
+
 
 
 
