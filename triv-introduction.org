@@ -560,9 +560,38 @@ created a /cognitive surplus/ of free time.
 The first of these revolutions resulted in at least one
 generation drinking themselves to death.
 
-   - [[https://en.wikipedia.org/wiki/Gin_Craze][Gin Craze]] | Wikipedia
-   - [[https://web-beta.archive.org/web/20080202074611/http://culturalshifts.com/archives/168][The Gin Craze: Drink, Crime & Women in 18th Century London]] | Cultural Shift(s)
-   - [[bib:waterson:2000women][Mother’s Ruin Revisited]] | Jan Waterson
+#+begin_quote
+An examination of the Gin Acts and crime would be incomplete
+without reference to poverty and the role poverty played in
+exacerbating the problems that arose in London related to
+gin consumption. Most people who drank gin were among the
+citys working class poor. Since the poor were small,
+malnourished, and lived in an unsanitary environment, they
+were ill equipped to metabolize the large quantities of
+alcohol gin delivered.23 Gin provided refuge and comfort
+from the harsh realities of daily London life.24 Gin helped
+relieve the pains of adaptation to unfamiliar and
+increasingly industrialized work routines and to unhealthy
+living conditions in a city that had few recreational
+outlets beyond the gin-shop.25 Evidently, the infrastructure
+of the day was inadequate to meet the complex challenges
+posed by a modern city life characterized by an increasingly
+heterogeneous population26 and the dislocation of the
+industrial revolution served to heighten the social and
+medical problems of excessive gin-drinking.
+
+-- [[https://web-beta.archive.org/web/20080202074611/http://culturalshifts.com/archives/168][The Gin Craze: Drink, Crime & Women in 18th Century London]] | Cultural Shift(s)
+#+end_quote
+
+
+#+begin_quote
+in beginning the Gin Craze; as the price of food dropped and
+income grew, consumers suddenly had the opportunity to spend
+excess funds on liquor.
+
+-- [[https://en.wikipedia.org/wiki/Gin_Craze][Gin Craze]] | Wikipedia
+#+end_quote
+
 
 The second was the Sitcom where generations sat every
 evening eyes glazed in front of televisions.  I was a part
