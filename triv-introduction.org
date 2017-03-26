@@ -560,7 +560,9 @@ created a /cognitive surplus/ of free time.
 The first of these revolutions resulted in at least one
 generation drinking themselves to death.
 
-   See Braudel & Gin
+   - [[https://en.wikipedia.org/wiki/Gin_Craze][Gin Craze]] | Wikipedia
+   - [[https://web-beta.archive.org/web/20080202074611/http://culturalshifts.com/archives/168][The Gin Craze: Drink, Crime & Women in 18th Century London]] | Cultural Shift(s)
+   - [[bib:waterson:2000women][Mother’s Ruin Revisited]] | Jan Waterson
 
 The second was the Sitcom where generations sat every
 evening eyes glazed in front of televisions.  I was a part
@@ -597,6 +599,8 @@ left behind.
 
   - [[https://soundcloud.com/officialsxsw/the-future-history-that-hasnt-happened-yet-sxsw-2017][The Future: History that Hasn’t Happened Yet]] | SXSW 2017 | SoundCloud
   - [[https://www.wired.com/beyond-the-beyond/2017/03/bruce-sterling-speech-sxsw2017/][Bruce Sterling speech at SXSW2017]] | WIRED
+
+The next question: will there always be a doomed class?
 
 
 ---
