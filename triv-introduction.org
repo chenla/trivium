@@ -736,6 +736,26 @@ corporate Japan becoming slow and inflexible.  In many ways
 it's the same trap as the village and extended family.
 
 
+I'm thinking along the lines that shops (not all) could be
+the equivilant of both an extended family and a japanese
+corporation.  Each shop is owned by a small group of
+extended families which the shops support for life.  This
+requires *very* productive shops to be able to do this.  And
+this is where automation, robotics and AI come in, so that a
+small group of productive people, with a larger group of
+semi-productive people and a lot of robots could do just
+this.
+
+But rather than each family (or collective or whatever)
+relying on one shop, different members of the family will
+belong to different and often overlapping shops -- some
+primary full time, other will be secondary, seasonal,
+part-time shops.
+
+Leverage networks to coordinate transactions (and contracts),
+communications, knowledge, supply chains, logistics and
+orders.
+
 ---
 
 Perhaps, we need to think of the institutions that make up
