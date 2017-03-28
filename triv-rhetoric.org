@@ -46,6 +46,35 @@ The latest version of this document is: src_sh[:results value]{git describe --ab
 #+HTML: </ul>
 #+HTML: </div>
 
+
+#+begin_src emacs-lisp
+(let ((git-repo "./"))
+  (git-run "log" "v00.01.01...HEAD --pretty=<li>%s</li>"))
+#+end_src
+
+#+RESULTS:
+#+begin_example
+commit c31c1e61d5da4a99fde397cc8c7b6d6c553ad6ed
+Author: Deerpig <brad@chenla.la>
+Date:   Tue Mar 28 18:06:35 2017 +0700
+
+    moved text to deploy-social
+
+commit 7c7e339819217ce5ab6d7394f5a9df7eeede01c1
+Author: Deerpig <brad@chenla.la>
+Date:   Mon Mar 27 21:05:01 2017 +0700
+
+    golden rule links
+
+commit 918243b25254b9377f8c69f64392f0a3730dd09a
+Author: Deerpig <brad@chenla.la>
+Date:   Mon Mar 27 20:43:28 2017 +0700
+
+    added link to TedTalk
+#+end_example
+
+
+
 * Introduction
 
 
