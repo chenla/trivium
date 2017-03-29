@@ -20,32 +20,6 @@
 
 #+TOC: headlines 4
 
-
-* Status of This Document
-
-The latest version of this document is: src_sh[:results value]{git describe --abbrev=0 --tags}
-
-#+HTML: <div class="notice notice-info">
-*Changes since the last version*
-
-#+HTML: <ul>
-
-#+BEGIN_SRC sh :exports results :results value html :var TAG="v00.01.02"
-  RES='git log $TAG...HEAD --pretty="<li>%s</li>\n" -- (file-name-nondirectory (buffer-file-name))'
-  if [ -z $RES ]; then
-    RES="<li>no changes</li>"
-  fi
-  echo $RES
-#+END_SRC
-
-#+RESULTS:
-#+BEGIN_EXPORT html
-<li>no changes</li>
-#+END_EXPORT
-
-#+HTML: </ul>
-#+HTML: </div>
-
 * Introduction
 
 * Grammar Links
