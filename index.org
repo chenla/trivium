@@ -56,15 +56,27 @@ githubchart -u deerpig ~/proj/img/contrib.svg
 
 * Introduction
 
+The Trivium prepares the mind to learn through directed and self
+directed study, to reason and think critically, and to organize ones
+thoughts and communicate them.  The Trivium provides the skills and
+tools to study the Quadrivium.
+
+The Quadrivium is provides the context needed to orient the mind and
+understand who, what, where, when, how and why.  What are we, where
+are we, how did we get here, where are we going, what has happened,
+how does everything fit together etc.
 
 * Table of Contents 
 
+** Trivium
+
   - [[./triv-introduction.org][Introduction]]
   - [[./triv-mastery.org][Mastery]]
-
   - [[./triv-grammar.org][Grammar]]
   - [[./triv-logic.org][Logic]]
   - [[./triv-rhetoric.org][Rhetoric]]
+
+** Quadrivium
 
   - [[./triv-quadrivium.org][Quadrivium]]
 
