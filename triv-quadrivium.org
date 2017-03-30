@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Quadrivium
+#+TITLE: Quadrivium TOC
 #+STARTUP: showall
 #+PROPERTY: filename
   :PROPERTIES:
@@ -20,36 +20,16 @@
 
 #+TOC: headlines 4
 
+The quad files will later be split into their own repo, but
+for not they will be kept in the trivium repo with the
+prefix 'quad'.
+
+* Table of Contents
+
+- [[./quad-index.org][Table of Contents]]
+- [[./quad-introduction.org][Introduction]]
+
+
 
 * Introduction
 
-
-* Quadrivium
- :: Scope
-
-The original Quadrivium was made up of four subjects that each dealt
-with different aspects of number and magnitude: arithmetic, geometry,
-music and astronomy.  This originated with Plato's belief that the
-Universe could best be understood in terms of number.
-
-Our understanding of how the world works is far more complex and
-nuanced today.  And even though in recent years the idea that we live
-in a /mathematical universe/ has brought us full circle back to Plato
-in some respects, mathematics is still removed from physical reality
-and from mind.  Mathematics is very good at modeling the universe, but
-the universe is better unstood in terms of information.  Information
-is a gray area that sits somewhere between mathematics and the
-physical universe.  Information is directly connected to the physical
-universe, it requires energy to create and destroy it.  And
-increasingly information is being seen as the basic building block of
-the universe -- everything in the universe, space, matter and energy
-can be thought of as actualized information.  As if information was a
-computer program, that compiles into matter, energy and space.
-
-The new Quadrivium is made up of four subject that deal with different
-aspects of information; mimesis, rhizomata, systema and transacta.
- 
-** Mimesis
-** Rhizomata
-** Systema
-** Transacta

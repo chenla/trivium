@@ -22,3 +22,124 @@
 
 * Introduction
 
+The original Quadrivium was made up of four subjects that each dealt
+with different aspects of number and magnitude: arithmetic, geometry,
+music and astronomy.  This originated with Plato's belief that the
+Universe could best be understood in terms of number.
+
+Our understanding of how the world works is far more complex and
+nuanced today.  And even though in recent years the idea that we live
+in a /mathematical universe/ has brought us full circle back to Plato
+in some respects, mathematics is still removed from physical reality
+and from mind.  Mathematics is very good at modeling the universe, but
+the universe is better unstood in terms of information.  Information
+is a gray area that sits somewhere between mathematics and the
+physical universe.  Information is directly connected to the physical
+universe, it requires energy to create and destroy it.  And
+increasingly information is being seen as the basic building block of
+the universe -- everything in the universe, space, matter and energy
+can be thought of as actualized information.  As if information was a
+computer program, that compiles into matter, energy and space.
+
+The new Quadrivium is made up of four subject that deal with different
+aspects of information; mimesis, rhizomata, systema and transacta.
+ 
+** Mimesis
+
+Mimesis is concerned with the internal and externalised systems used
+to represent reality.
+
+This goes to to the heart of human cognition -- 
+
+a theory is linguistic, a model is a non-linguistic realization of a
+theory.
+
+models can be linguistic, non-linguistic and physical.
+
+
+*** Mathematics
+
+Mathematics represents reality in terms of relationships between
+descrete quantities.  For math to be able to model reality, reality
+must:
+
+  1. contain discrete/finite quantities;
+  2. these quantities must be able to interact with each other.
+
+Not all mathematical truths correspond to reality.
+
+Mathematics is a good match with the human brain, which is a pattern
+recognition machine.
+
+
+*** Instantial Models and Analogy
+*** Representational Models
+**** Material Models :: Maps
+**** Material Models :: Diagrams
+**** Material Models :: Scale Models
+*** Abstract Models
+*** Hypothesis
+*** Theoretical Models
+*** Mathematical Models
+*** Models of Data
+*** Data
+
+** Rhizomata,
+** Systema
+** Transacta
+
+Where the Trivium is concerned with the preparation of the mind as an
+individual, Trasacta is concerned with the preparation of the mind to
+be part of collective human society and species.
+
+Humans in isolation as individuals cut off from other humans are
+animals.  All human intelligence, and intellectual achievements have
+only been possible because of our transactive nature.  Memory, problem
+solving, and survival are all broken down into specializations in
+large groups.  Even between two individuals, memory and skills are
+divided between them.  Because of this transactional nature, humans
+have evolved to be generalists which can adapt to a wide range of
+environments and circumstances.  Humans are not specialists
+biologically, there are only two variations, male and female, which
+is an evolutionary mechanism for the species to biologically change
+and improve over time.  
+
+  - Homo Sapians :: species
+  - Human        :: conscious-bearing, transactive individual
+  - Humanity     :: 
+  - Mankind      :: collective
+
+Further, that we must embrace a larger concept of what we are that is
+not limited to any one species, but to collectively include any
+conscious-bearing individual which is part of the collective
+transactive process of the group.  This includes other species, like
+the domesticated dog, who has a transactive relationship with, and is
+part of human society.  It may one day include machine intelligences.
+Computational and storage systems already have a transactive
+relationship with mankind -- as these systems become more autonomous
+they may evolve consciousness and self awareness and be accepted into
+human society as part of mankind.
+
+
+Specialization is often talked of in terms of a 'division of labour'
+but this is a narrow concept --
+
+  - the amount of knowledge required to maintain and advanced complex
+    societies is greater than the ability of any one individual to
+    master.  knowledge has fractured into ever smaller and smaller
+    specialties.  It is not enough to store this information in books
+    it must be maintained to some extent in living memory by people
+    who actively apply that knowledge -- otherwise it has been lost to
+    living memory and must be relearned, and partially reinvented as
+    the skill sets that are lost are reinvented and developed anew.
+  - the number of skilled tasks (jobs) that are required to maintain
+    and advance a complex society is greater than 
+  - technology and knowledge advance over time by many individuals,
+    over many generations, it is an iterative process that would be
+    impossible unless each advance is added to the collective commons
+    and then built on -- standing on the shoulders of giants, as
+    Newton said.
+  - transactive memory is when memory is divided between two or more
+    members of a group.
+  - transactive senses is when the senses are divided between
+    different individuals or even animals.....
