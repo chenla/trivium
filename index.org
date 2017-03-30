@@ -68,6 +68,8 @@ how does everything fit together etc.
 
 * Table of Contents 
 
+  - [[./triv-notes.org][Notes]] | material that will be organized into other files
+
 ** Trivium
 
   - [[./triv-introduction.org][Introduction]]
@@ -81,7 +83,7 @@ how does everything fit together etc.
   - [[./triv-quadrivium.org][Quadrivium]]
 
 
-  - [[./triv-notes.org][Notes]] | material that will be organized into other files
+
   
 
 
