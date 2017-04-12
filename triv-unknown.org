@@ -128,8 +128,35 @@ unread books on the shelves will look at you menacingly. Indeed, the
 more you know, the larger the rows of unread books. Let us call this
 collection of unread books an antilibrary.[fn:2]
 
-...
+-- Nassim Nicholas Taleb | The Black Swan
+#+end_quote
 
+This is similar to the experience that many people feel (or now
+largely felt) when browsing the stacks in a good research library.
+The LOC Catalog system, for all it's shortcomings, is good at shelving
+books on each topic together.  I used to keep an index card that had
+the prefixes for all of the different sections that I visited most
+often.  And this cheat sheet worked in any library using the LOC
+Catalog system.  No matter how many times I visited each section, I
+would come back again and again, though I knew that the chances of new
+material to be very slim.  That wasn't the point.  As I read and
+researched, I came to know all of the books in each section and their
+relationship to each other.  Though I could never have read even a
+fraction of them, it helped me to form a mental map of work in
+different fields.  This is not something that can be done at present
+in electronic collections.  Links on a web page, or search results
+don't capture that same mapping LOC catalog's mapping that was
+physically manifest on wood and metal shelving.  This is a useful tool
+that will eventually be reinvented for the electronic networked age.
+But likely it will only happen when electronic libraries can be
+assembled in ways similar to physical lending and research libraries.
+The tyranny of the publishing industry has fought tooth and nail to
+destroy the library, to maximize profits.  All of the paywalls and
+walled gardens place the experience of browsing the stacks out of
+reach and will stay that way for some time to come.
+
+
+#+begin_quote
 We tend to treat our knowledge as personal property to be protected
 and defended. It is an ornament that allows us to rise in the pecking
 order. So this tendency to offend Eco’s library sensibility by
