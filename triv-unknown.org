@@ -79,6 +79,10 @@ are.
 
 * 積ん読 (Tsundoku)
 
+ - [[https://en.wikipedia.org/wiki/Tsundoku][Tsundoku]] - Wikipedia
+ - 
+
+
 /Tsundoku/ is a japanese word for the act or process or aquiring books
 and other reading material and letting them pile up unread.[fn:1]
 
@@ -93,9 +97,25 @@ really well."
 -- Derrida documentary https://youtu.be/tdumO88JMxw
 #+end_quote
 
+
+#+begin_quote
+Even when reading is impossible, the presence of books acquired
+produces such an ecstasy that the buying of more books than one can
+read is nothing less than the soul reaching towards infinity… we
+cherish books even if unread, their mere presence exudes comfort,
+their ready access, reassurance.
+
+-- [[https://en.wikipedia.org/wiki/A._Edward_Newton][A. Edward Newton]][fn:2]
+#+end_quote
+
+
+
 * Footnotes
 
-[fn:1] 
+[fn:2] For more background on the quote see: [[http://languagehat.com/a-quote-on-bibliomania/][ A Quote On Bibliomania]] |
+languagehat.com
+
+[fn:1] I wish this was relevant, but it /is/ amusing:
 
 #+begin_quote 
 "If you call your collection of unread books your
