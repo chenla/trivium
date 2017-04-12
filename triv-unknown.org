@@ -80,7 +80,7 @@ are.
 * 積ん読 (Tsundoku)
 
 /Tsundoku/ is a japanese word for the act or process or aquiring books
-and other reading material and letting them pile up unread.
+and other reading material and letting them pile up unread.[fn:1]
 
 
 #+begin_quote
@@ -91,4 +91,19 @@ them? "No, no ... three of four... but I've read those four really,
 really well."
 
 -- Derrida documentary https://youtu.be/tdumO88JMxw
+#+end_quote
+
+* Footnotes
+
+[fn:1] 
+
+#+begin_quote 
+"If you call your collection of unread books your
+anti-library/, what do you call your collection of books still
+enclosed within postal delivery boxes that you haven't even opened
+yet?" -- tjr
+
+   "Schrodinger's library" -- cirgue
+
+-- [[https://news.ycombinator.com/item?id=14087536][Umberto Eco's Anti-Library]] (2015) | Hacker News Discussion Thread
 #+end_quote
