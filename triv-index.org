@@ -56,4 +56,5 @@ how does everything fit together etc.
   - [[./triv-logic.org][Logic]]
   - [[./triv-rhetoric.org][Rhetoric]]
 
-  - [[./triv-unknown.org][The Unknown]]
+ [[./triv-unknown.org][The Unknown]]
+

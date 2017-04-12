@@ -20,5 +20,21 @@
 
 #+TOC: headlines 4
 
+#+begin_quote
+"It ain't what you don't know that gets you into trouble. It's what
+you know for sure that just ain't so." 
+
+-- Mark Twain
+#+end_quote
+
 * Introduction
+
+This keeps cropping up so much, in so many different places that it
+deserves its own file.
+
+We as individuals and we as a modern civilization take credit for
+knowing far more than we do.  In fact, what we do know, is the tinest
+of crumbs compared to the barn-sized loaf of what we don't.  And even
+that crumb, if not constantly maintained would eventually dry out and
+turn to dust.
 
