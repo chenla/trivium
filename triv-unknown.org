@@ -83,15 +83,18 @@ are.
  - 
 
 
-/Tsundoku/ is a japanese word for the act or process or aquiring books
-and other reading material and letting them pile up unread.[fn:1]
+/Tsundoku/ (積ん読) is a japanese word for the act or process or
+aquiring books and other reading material and letting them pile up
+unread.[fn:1]
 
 
 #+begin_quote
-(Derrida shows his library to the interviewer) 
+Derrida: (shows his library) "I haven't read all the books that are
+here"
 
-"I haven't read all the books that are here" "But you've read most of
-them? "No, no ... three of four... but I've read those four really,
+Interviewer: "But you've read most of them? 
+
+Derrida: "No, no ... three of four... but I've read those four really,
 really well."
 
 -- [[https://youtu.be/tdumO88JMxw][Derrida documentary]]
