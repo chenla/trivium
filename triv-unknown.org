@@ -108,7 +108,7 @@ read is nothing less than the soul reaching towards infinity… we
 cherish books even if unread, their mere presence exudes comfort,
 their ready access, reassurance.
 
--- [[https://en.wikipedia.org/wiki/A._Edward_Newton][A. Edward Newton]][fn:2]
+-- [[https://en.wikipedia.org/wiki/A._Edward_Newton][A. Edward Newton]]
 #+end_quote
 
 #+begin_quote
@@ -126,7 +126,7 @@ real-estate market allows you to put there. You will accumulate more
 knowledge and more books as you grow older, and the growing number of
 unread books on the shelves will look at you menacingly. Indeed, the
 more you know, the larger the rows of unread books. Let us call this
-collection of unread books an antilibrary.
+collection of unread books an antilibrary.[fn:2]
 
 ...
 
