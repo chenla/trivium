@@ -193,12 +193,12 @@ languagehat.com
 [fn:1] I wish this was relevant, but it /is/ amusing:
 
 #+begin_quote 
-"If you call your collection of unread books your
-anti-library/, what do you call your collection of books still
-enclosed within postal delivery boxes that you haven't even opened
-yet?" -- tjr
+tjr: "If you call your collection of unread books your
+     /anti-library/, what do you call your collection of books still
+     enclosed within postal delivery boxes that you haven't even opened
+     yet?
 
-   "Schrodinger's library" -- cirgue
+cirgue: "Schrodinger's library"
 
 -- [[https://news.ycombinator.com/item?id=14087536][Umberto Eco's Anti-Library]] (2015) | Hacker News Discussion Thread
 #+end_quote
