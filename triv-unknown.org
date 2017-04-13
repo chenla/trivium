@@ -179,7 +179,7 @@ knowledge itself on its head.
  - [[https://www.brainpickings.org/2015/02/02/the-island-of-knowledge-marcelo-gleiser/][How to live with mystery in a culture obsessed with
    certitude]] | Brain Pickings
  - [[https://www.brainpickings.org/2014/09/16/hannah-arendt-the-life-of-the-mind/][How unanswerable questions give shape to the human experience]] | Brain Pickings
- - [[https://www.brainpickings.org/2014/12/08/the-world-split-open-marilynne-robinson-beauty-writing/][Hhe beauty of the unknown]] | Brain Pickings
+ - [[https://www.brainpickings.org/2014/12/08/the-world-split-open-marilynne-robinson-beauty-writing/][The beauty of the unknown]] | Brain Pickings
 
  - [[bib:sagan:2007varieties][The Varieties of Scientific Experience]] | Carl Sagan
  - [[bib:gleiser:2014island][The Island of Knowledge]] | Marcelo Gleiser
