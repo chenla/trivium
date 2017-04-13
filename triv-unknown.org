@@ -176,6 +176,12 @@ knowledge itself on its head.
  - [[https://www.brainpickings.org/2014/09/16/hannah-arendt-the-life-of-the-mind/][how unanswerable questions give shape to the human experience]]
  - [[https://www.brainpickings.org/2014/12/08/the-world-split-open-marilynne-robinson-beauty-writing/][the beauty of the unknown]]
 
+ - [[bib:sagan:2007varieties][The Varieties of Scientific Experience]] | Carl Sagan
+ - [[bib:gleiser:2014island][The Island of Knowledge]] | Marcelo Gleiser
+ - [[https://en.wikipedia.org/wiki/Hannah_Arendt][Hannah Arendt]] | Wikipedia
+ - [[bib:arendt:1998human][The Human Condition]]  | Hannah Arendt
+ - [[bib:arendt:1981life][The Life of the Mind]] | Hannah Arendt
+
 * Footnotes
 
 [fn:2] For more background on the quote see: [[http://languagehat.com/a-quote-on-bibliomania/][ A Quote On Bibliomania]] |
