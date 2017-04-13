@@ -172,6 +172,8 @@ knowledge itself on its head.
 
 * Further Research Materials
 
+ - [[https://en.wikipedia.org/wiki/Uncertainty][Uncertainty]] | Wikipedia
+
  - [[bib:taleb:2007black][The Black Swan]] | Nicholas Taleb
 
  - [[https://www.brainpickings.org/2015/02/02/the-island-of-knowledge-marcelo-gleiser/][How to live with mystery in a culture obsessed with
