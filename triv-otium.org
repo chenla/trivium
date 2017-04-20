@@ -136,3 +136,34 @@ to day how you or your subordinates are performing.
 
 -- REST
 #+end_quote
+
+#+begin_quote
+According to a 2015 Bureau of Labor Statistics report, in
+the United States parents of young children spend an average
+of seven hours every workday taking care of
+children. Earlier generations gave children more
+independence and mobility, but today’s parenting is more
+time-and labor-intensive. This is one reason the amount of
+time spent on housework has barely budged in the last
+hundred years, despite the invention of dishwashers, washing
+machines, and other appliances.
+
+-- REST
+#+end_quote
+
+#+begin_quote
+We also spend more time commuting to work—and the proportion
+of people with long commutes is rising, too. In the UK,
+according to a 2015 study, roughly 3 million people, or 10
+percent of the labor force, spent more than two hours a day
+commuting in 2014, a figure that had increased more than 70
+percent since 2004. In the United States, workers spent an
+average of twenty-one minutes commuting in 1982; by 2014,
+that number had climbed to twenty-six minutes, with 17
+percent of commuters spending forty-five minutes or more
+commuting. (The amount of time commuters spent stuck in
+traffic also rose, from sixteen hours a year in 1982 to
+forty-two hours a year in 2014.)
+
+-- REST
+#+end_quote
