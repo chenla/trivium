@@ -51,7 +51,10 @@ how does everything fit together etc.
   - [[./triv-notes.org][Notes]] | material that will be organized into other files
 
   - [[./triv-introduction.org][Introduction]]
+
   - [[./triv-mastery.org][Mastery]]
+  - [[./triv-otium.org][Otium]]
+
   - [[./triv-grammar.org][Grammar]]
   - [[./triv-logic.org][Logic]]
   - [[./triv-rhetoric.org][Rhetoric]]
