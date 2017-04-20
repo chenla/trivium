@@ -30,6 +30,9 @@ are embodied in Mastery and Otium.
 
 * Otium
 
+ - [[http://nautil.us/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too][You Should Work Less Hours—Darwin Did]] | Nautilus
+ - [[bib:pang:2016rest][REST: Why You Get More Done When You Work Less]] | Alex Soojung-Kim Pang
+
 #+begin_comment
 Based on: NOTES <2015-07-24 Fri 12:29> Studyhall About Page
 
