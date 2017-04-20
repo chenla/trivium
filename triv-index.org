@@ -1,5 +1,5 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Table of Contents
+#+TITLE: Trivium Table of Contents
 #+STARTUP: showall
 #+PROPERTY: filename 
 #+INCLUDE: ./inc/head.org
