@@ -89,7 +89,7 @@ through a problem without distractions.  The second problem, which is
 harder than the first, is how to integrate this concept, how to learn
 to shut off the firehose and be comfortable with your thoughts.
 
-* ----
+* Dealing with increasing Rate of Change
 
 How much of Otium is slowing things down -- to deliberately
 not try to take in too much at once?
@@ -113,7 +113,7 @@ important that we don't know exist...  and that is the real
 challenge here.
 
 
-* ----
+* Quotes
 
 #+begin_quote
 THE IDEA OF work and rest as opposites and competitors now
