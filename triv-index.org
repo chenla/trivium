@@ -53,7 +53,8 @@ how does everything fit together etc.
   - [[./triv-introduction.org][Introduction]]
 
   - [[./triv-mastery.org][Mastery]]
-  - [[./triv-otium.org][Otium]]
+   - Practice :: a lot of the material in mastery will move here.
+   - [[./triv-otium.org][Otium]]
 
   - [[./triv-grammar.org][Grammar]]
   - [[./triv-logic.org][Logic]]
