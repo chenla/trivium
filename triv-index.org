@@ -36,6 +36,12 @@ Recent change activity on http://github.com/chenla/trivium
 
 * Introduction
 
+Mastery is the methology for life-long learning, especially
+in a world where knowledge, skills and even several entire
+disciplines and technologies emerge, mature, become
+mainstream and then become obsolete in the span of an
+individual's career.
+
 The Trivium prepares the mind to learn through directed and self
 directed study, to reason and think critically, and to organize ones
 thoughts and communicate them.  The Trivium provides the skills and
