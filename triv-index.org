@@ -55,7 +55,7 @@ how does everything fit together etc.
   - [[./triv-mastery.org][Mastery]]
    - Practice :: a lot of the material in mastery will move here.
    - [[./triv-otium.org][Otium]]
-   - Negotium
+   - [[./triv-negotium.org][Negotium]]
 
   - [[./triv-grammar.org][Grammar]]
   - [[./triv-logic.org][Logic]]
