@@ -59,7 +59,7 @@ how does everything fit together etc.
   - [[./triv-introduction.org][Introduction]]
 
   - [[./triv-mastery.org][Mastery]]
-    - Practice :: a lot of the material in mastery will move here.
+    - [[./triv-practice.org][Practice]] :: a lot of the material in mastery will move here.
     - [[./triv-otium.org][Otium]]
     - [[./triv-negotium.org][Negotium]]
 
