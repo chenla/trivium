@@ -33,6 +33,10 @@ are embodied in Mastery and Otium.
  - [[http://nautil.us/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too][You Should Work Less Hours—Darwin Did]] | Nautilus
  - [[bib:pang:2016rest][REST: Why You Get More Done When You Work Less]] | Alex Soojung-Kim Pang
 
+ - Gospel of Relaxation | William James
+ - Advice for a Young Investigator | Ramón y Cajal
+ - 
+
 #+begin_comment
 Based on: NOTES <2015-07-24 Fri 12:29> Studyhall About Page
 
@@ -84,3 +88,51 @@ airplane mode.  A long walk at dusk, along the riverside, working
 through a problem without distractions.  The second problem, which is
 harder than the first, is how to integrate this concept, how to learn
 to shut off the firehose and be comfortable with your thoughts.
+
+
+* ----
+
+#+begin_quote
+THE IDEA OF work and rest as opposites and competitors now
+seems perfectly logical, but it’s one of those logical ideas
+that’s actually a historical artifact. Before the eighteenth
+century, the boundaries between work and rest were not so
+clear-cut. Workplaces and domestic space were often
+intertwined: in the preindustrial era, skilled workers had
+shops in their homes, small farmers brought livestock into
+the house during winter months, scholars and teachers gave
+lessons out of their homes, and apprentices lived with their
+masters.
+
+Working time was more flexible and “task-oriented,” as labor
+historian E. P. Thompson put it, and many workers sought to
+work only long enough to provide for their basic needs. This
+order was upended by the Industrial Revolution in the
+eighteenth and nineteenth centuries. The factory and office
+came to be seen as the places where “real” work
+happened. The home, in contrast, evolved into the domestic
+sphere, the place where a man could relax and recover from
+work. (Of course, men could believe that the home was a
+retreat from work so long as they did no work there; for
+women it was a different story.) The labor movement’s
+advocacy of shorter hours, paid vacation days, and holidays
+further (though unintentionally) contributed to a sense that
+work and leisure were opposites and could be haggled over
+and won and lost.
+
+The template of industrial labor, including its underlying
+assumptions about work and rest, was copied by service
+industries, professions, and bureaucracies in the
+mid-nineteenth century. The modern office was conceptualized
+as a machine for rationalizing and organizing intellectual
+labor, and it copied the working hours of factories. But the
+model has been an imperfect fit in creative industries, as
+it’s extremely hard to measure productivity and quality in
+creative and knowledge work. In factories and fields, you
+can point to tangible products at the end of the day; in
+industries where the “product” is intangible and projects
+may take years to complete, it’s harder to assess from day
+to day how you or your subordinates are performing.
+
+-- REST
+#+end_quote
