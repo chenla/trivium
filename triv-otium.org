@@ -35,7 +35,7 @@ are embodied in Mastery and Otium.
 
  - Gospel of Relaxation | William James
  - Advice for a Young Investigator | Ramón y Cajal
- - 
+ - Muße und Kult (Leisure: The Basis of Culture) | Josef Pieper
 
 #+begin_comment
 Based on: NOTES <2015-07-24 Fri 12:29> Studyhall About Page
@@ -164,6 +164,24 @@ percent of commuters spending forty-five minutes or more
 commuting. (The amount of time commuters spent stuck in
 traffic also rose, from sixteen hours a year in 1982 to
 forty-two hours a year in 2014.)
+
+-- REST
+#+end_quote
+
+#+begin_quote
+In ancient and medieval Europe, philosophers argued that the
+exercise of pure reason was never sufficient to make sense
+of the world. Knowledge (and the culture that formed through
+the accumulation of knowledge) required the marriage of
+logical and discursive methods (ratio) and contemplative
+practices and attitudes (intellectus). Intellectus, in turn,
+was enabled by leisure, which Pieper described as not just a
+“result of spare time” but “an attitude of non-activity, of
+inward calm.” The philosopher’s capacity for insight had its
+center in this “tranquil silence” that only the world’s deep
+truths could disturb and that provided space for the
+cultivation of intellectus. Leisure was, as the English
+translation of Muße und Kult put it, the basis of culture.
 
 -- REST
 #+end_quote
