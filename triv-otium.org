@@ -27,3 +27,57 @@ methodology or philosophy about how to live and work.  The
 intellectual tools that the Trivium gives us must be matched by a
 daily workflow that is product and sustainable -- these two concepts
 are embodied in Mastery and Otium.
+
+* Otium
+
+#+begin_comment
+Based on: NOTES <2015-07-24 Fri 12:29> Studyhall About Page
+
+My concept of Otium is now evolving more towards the larger concept of
+/rest/ as a counterpart to /practice/ which is at the heart of /mastery/.
+
+#+end_comment
+
+
+In addressing the deep learning deficiencies that are inherent in
+Hacker Culture, it is worth looking at the complex concept of [[https://en.wikipedia.org/wiki/Otium][otium]].
+
+We use /otium/ in the sense of a period of time spent retiring from
+public or daily life for the purpose of quiet contemplation.  The
+opposite of otium, /negotium/ is public life, from which we get the
+english word /negotiation/.
+
+The concept of otium is the polar opposite of the hyper-connected
+always on, always available life online.  Otium is all about
+assimilation of what has been learned and experienced, and dedicated
+to looking for connections and a deeper understanding of things in a
+larger context.  Otium is a time for reading, for writing, for
+thinking and sketching.  It is a different kind of work, which is
+neccessary to really learning anything.
+
+Sleep is similar, in that it is a time for the brain to make chemical
+repairs, but it is also a time for the sub-conscious to work through
+problems and make connections that it couldn't do when awake.
+
+Life connected to the firehose of social media, news cycles, and a
+constant barrage on the senses from adversiting, social and work
+responsibilities overwhelms and makes it impossible to see what is
+really happening, to see the patterns in the chaos.  It is only when
+you have time to make those connections that you turn information into
+knowledge and knowledge into wisdom.
+
+Traditional education in small doses, when done right, has many
+worthwhile traditions and methodologies but they tend to be expensive,
+and time consuming.
+
+Setting aside some time for otium, and deep learning is preferable to
+attending traditional training or school courses because they part of
+public life, group politics, peer pressure that are prone to
+distraction.
+
+The first problem is to weave periods of otium into daily life.  A few
+minutes with a cup of coffee, in a quiet place with the phone in
+airplane mode.  A long walk at dusk, along the riverside, working
+through a problem without distractions.  The second problem, which is
+harder than the first, is how to integrate this concept, how to learn
+to shut off the firehose and be comfortable with your thoughts.
