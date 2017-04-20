@@ -22,3 +22,32 @@
 
 * Introduction
 
+It's only been very recently that Rest/Otium have started to
+get any attention.  But we also need treat /negotium/ as
+equally important in its own way.  Negotium  is our public
+life, how we craft a persona that shapes how we are
+percieved.  Interacting with the world is no mean feat.  And
+for introverts and borderline recluses like my self, is an
+enormous challenge.
+
+Some things to look into:
+
+  - Paul Graham's Maker & Manager Hours
+  - Correspondance :: look at how others do it -- and always use
+                      asynchronous communication.
+  - Networking  :: building and maintaining relationships with people,
+                   how to keep in touch, how to use them
+  - Mentorship  :: always finding time to teach
+  - Delegation  :: very hard for some -- for me!
+  - Speaking    :: 
+  - Publishing  ::
+  - Interviews  ::
+  - Social Media
+    - Blogging
+    - Discussion Threads
+  - Family
+  - Friends
+  - Travel
+  - Money
+  - Maintenance :: mechanics of health, chores, errands and other
+                   things that aren't part of Otium
