@@ -1,0 +1,24 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Practice
+#+STARTUP: showall
+#+PROPERTY: filename
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/trivium/triv-practice.org
+  :Created: 2017-04-20T18:29@Prek Leap (11.642600N-104.919210W)
+  :ID: 0dac1b2a-4b7f-461c-a91f-a2e4a89772c1
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* Introduction
+
