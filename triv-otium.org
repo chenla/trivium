@@ -22,6 +22,17 @@
 
 * Introduction
 
+#+begin_quote
+> I found it irritating that there was inconsistent usage of tabs and
+> spaces at the beginning of lines.
+
+When this happens, I recommend to go take a walk, look at the trees,
+enjoy life...
+
+-- [[http://mbork.pl/2017-05-17_Some_emacs-devel_humor][Marcin Borkowski: 2017-05-17 Some emacs-devel humor]]
+#+end_quote
+
+
 Beyond the three /subjects/ of the Trivium there is no practical
 methodology or philosophy about how to live and work.  The
 intellectual tools that the Trivium gives us must be matched by a
