@@ -1,7 +1,7 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+TITLE: Trivium Table of Contents
 #+STARTUP: showall
-#+PROPERTY: filename 
+#+PROPERTY: filename
 #+INCLUDE: ./inc/head.org
 #+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
   :PROPERTIES:
