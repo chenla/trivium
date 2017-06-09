@@ -171,3 +171,59 @@ sculptures
   - [[http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions][Other Edited Contributions]] | O'Reilly Media
   - [[http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book][Contributions Appearing in the Book]] | O'Reilly Media
 
+* Mastery Learning 
+
+ - [[https://en.wikipedia.org/wiki/Mastery_learning][Mastery learning]] | Wikipedia
+
+#+begin_quote
+Mastery Learning has been one of the most highly
+investigated teaching methods over the past 50 years. While
+it has been the subject of high criticism, it has also been
+found to have resounding success when implemented
+correctly. A meta-analysis by Guskey & Pigott (1988)
+looked at 46 studies that implemented group-based mastery
+learning classrooms. Results found consistently positive
+effects for a number of variables including "student
+achievement, retention of learned material, involvement in
+learning activities, and student affect". However, a
+notable variation was found within student achievement and
+it was believed this was due mainly to the subject being
+taught. Courses such as science, probability, and social
+studies yielded the most consistent positive results, while
+other subjects were varied.
+
+Another large-scale meta analysis conducted by Kulik et
+al. (1990) investigated 108 studies of mastery programs
+being implemented at the elementary, secondary, and
+post-secondary level. Results revealed positive effects in
+favour of these teaching strategies, with students also
+reporting positive attitudes toward this style of
+learning. This study also found mastery programs to be most
+effective for weaker students.
+
+Despite the empirical evidence, many mastery programs in
+schools have been replaced by more traditional forms of
+instruction due to the level of commitment required by the
+teacher and the difficulty in managing the classroom when
+each student is following an individual course of
+learning. However, the central tenets of mastery
+learning are still found in today's teaching strategies such
+as differentiated instruction and understanding by
+design.
+
+-- [[https://en.wikipedia.org/wiki/Mastery_learning][Mastery learning]] | Wikipedia
+#+end_quote
+
+
+It's not surprising that mastery learning is often abandoned
+in traditional educational programs.  The technique is at
+odds with to many assumptions made in modern education.
+
+Industrial age education is based on the factory assembly
+line.  Factories treat all products to be identical copies
+of each other.  If they aren't identical they are rejected
+and discarded.  The system assumes that all students in a
+class advance together.  The system is designed from the
+bottom up to do this.  It is not only difficult to introduce
+a system where students advance at different rates, it is a
+threat to the system itself.
