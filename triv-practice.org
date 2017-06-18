@@ -47,6 +47,11 @@ for a sculptor -- they contain all music.
     helm-bibtex, biblio.el & interleave.
   - [[http://www.sciencemag.org/careers/2016/01/how-read-scientific-paper][How to read a scientific paper]] | Science | AAAS
   - [[http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper][How to (seriously) read a scientific paper]] | Science | AAAS
-  - [[https://arxiv.org/pdf/cond-mat/0212043.pdf][read_before_you_cite3.PDF - 0212043.pdf]] | Simkin,
+  - [[https://arxiv.org/pdf/cond-mat/0212043.pdf][Read before you cite!]] | Simkin pdf
     M.V. and Roychowdhury V.P. (2002)
   - [[bib:bayard:2007how][How to Talk About Books You Haven't Read]] | Bayard, P. (2009)
+
+  - [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] | (2016) pdf 
+  - [[https://news.ycombinator.com/item?id=14228912][How to Read a Paper (2016) pdf]] | Hacker News
+
+  - [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] | S. Keshav (2016) pdf
