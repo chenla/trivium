@@ -45,12 +45,8 @@ for a sculptor -- they contain all music.
   - [[https://codearsonist.com/reading-for-programmers][Reading for Programmers]] | Piotr Limanowski
     Includes org-mode toolchain and workflow including org,
     helm-bibtex, biblio.el & interleave.
-
   - [[http://www.sciencemag.org/careers/2016/01/how-read-scientific-paper][How to read a scientific paper]] | Science | AAAS
   - [[http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper][How to (seriously) read a scientific paper]] | Science | AAAS
-
   - [[https://arxiv.org/pdf/cond-mat/0212043.pdf][read_before_you_cite3.PDF - 0212043.pdf]] | Simkin,
     M.V. and Roychowdhury V.P. (2002)
-
-  - Bayard, P. (2009). How to Talk About Books You Haven't
-    Read. Bloomsbury USA
+  - [[bib:bayard:2007how][How to Talk About Books You Haven't Read]] | Bayard, P. (2009)
