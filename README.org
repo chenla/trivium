@@ -40,7 +40,7 @@ societies before them, but change was still measured in generations
 and that each new generation needed to learn new skills, but they were
 still recognizably an iteration of what came before.  Education was
 thought of as a place that one went to for a set period of time and
-that what learned there would serve you for the entire productive
+that what was learned there would serve you for the entire productive
 years of your life.
 
 Education will need to prepare people for a world that changes more in
@@ -57,5 +57,5 @@ something is true, false or patently deceptive.
 
 The medieval Trivium, which prepared students for studies at the
 university level, and completed by the time a student was 15 years old
-is broken into three /subjects/ which teach thinking, logic as well as
+is broken into three /subjects/ which teach thinking and logic as well as
 spoken and written communication.
