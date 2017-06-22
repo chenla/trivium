@@ -1,8 +1,25 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+STARTUP: showall
+
 * Scopic Trivium
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :Name:      /home/deerpig/proj/chenla/trivium/README.org
+  :Created:   2017-06-22T11:40@Prek Leap (11.642600N-104.919210W)
+  :ID:        517edd0b-ff6e-4c72-92eb-2225f1a1b979
+  :VER:       551378475.398582288
+  :GEO:       48P-491193-1287029-15
+  :BXID:      proj:INT6-8808
+  :Category:  primer
+  :Entity:    readme
+  :Status:    wip 
+  :Licence:   MIT/CC BY-SA 4.0
+  :END:
 
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]]
 [[https://img.shields.io/badge/category-primer-56B4E9.svg?style=flat-square]]
-[[https://img.shields.io/badge/status-stub-CC79A7.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-readme-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 The Trivium will provide students with the intellectual and rational
