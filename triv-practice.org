@@ -54,7 +54,7 @@ for a sculptor -- they contain all music.
   - [[https://news.ycombinator.com/item?id=14228912][How to Read a Paper (2016) pdf]] | Hacker News
   - [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] | S. Keshav (2016) pdf
   - [[http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/][How to read and understand a scientific paper: a guide
-    for non-scientists]] | London School of Economics
+    for non-scientists]] | London School of Economics [[bib:short:2009art][cite]]
 
 * Review articles
 
