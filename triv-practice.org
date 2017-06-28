@@ -55,3 +55,32 @@ for a sculptor -- they contain all music.
   - [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] | S. Keshav (2016) pdf
   - [[http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/][How to read and understand a scientific paper: a guide
     for non-scientists]] | London School of Economics
+
+* Review articles
+
+#+begin_quote
+Not to be confused with a “peer reviewed journal,” Review
+articles are an attempt by one or more writers to sum up the
+current state of the research on a particular
+topic. Ideally, the writer searches for everything relevant
+to the topic, and then sorts it all out into a coherent view
+of the “state of the art” as it now stands. Review Articles
+will teach you about::
+
+   - the main people working in a field
+   - recent major advances and discoveries
+   - significant gaps in the research
+   - current debates
+   - ideas of where research might go next
+
+Review Articles are virtual gold mines if you want to find
+out what the key articles are for a given topic. If you read
+and thoroughly digest a good review article, you should be
+able to “talk the talk” about a given topic. Unlike research
+articles, review articles are good places to get a basic
+idea about a topic.
+#+end_quote
+
+ - [[https://en.wikipedia.org/wiki/Review_article][Review article]] | Wikipedia
+ - [[https://www.lib.utexas.edu/lsl/help/modules/review.html][Review Articles]] | University of Texas Libraries
+
