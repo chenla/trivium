@@ -43,6 +43,8 @@ are embodied in Mastery and Otium.
 
  - [[http://nautil.us/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too][You Should Work Less Hours—Darwin Did]] | Nautilus
  - [[bib:pang:2016rest][REST: Why You Get More Done When You Work Less]] | Alex Soojung-Kim Pang
+ - [[https://www.scientificamerican.com/article/mental-downtime/][Why Your Brain Needs More Downtime]] | Scientific American
+
 
  - Gospel of Relaxation | William James
  - Advice for a Young Investigator | Ramón y Cajal
