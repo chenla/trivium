@@ -1,40 +1,34 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Trivium Table of Contents
 #+STARTUP: showall
-#+PROPERTY: filename
-#+INCLUDE: ./inc/head.org
-#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/triv-index.org
-  :Created: 2017-03-30T18:03@Prek Leap (11.642600N-104.919210W)
-  :ID: 60a9918c-7cb2-45f4-9913-b18ffcc799c5
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
+#+TITLE:   Trivium | TOC
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:      /home/deerpig/proj/chenla/trivium/index.org
+:Name:      /home/deerpig/proj/chenla/trivium/triv-index.org
+:Created:   2017-03-30T18:03@Prek Leap (11.642600N-104.919210W)
+:VER:       558651098.513849753
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:UYE2-5633
+:Class:     primer
+:Entity:    toc
+:Status:    wip 
+:Licence:   MIT/CC BY-SA 4.0
+:END:
 
-{{{breadcrumbs}}}
+* Trivium | Table of Contents
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
-#+TOC: headlines 4
-
-* About these pages
+* About
 
 #+begin_quote
 The Chenla Trivium is the foundation for learning to become a
 continuous process that is woven through out lives from cradle to
 grave.  Learning is not a place, it is a process.
 #+end_quote
-
-* Recent Activity
-
-Recent change activity on http://github.com/chenla/trivium
-
-* Introduction
 
 Mastery is the methology for life-long learning, living and
 work, especially in a world where knowledge, skills and even
