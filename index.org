@@ -1,0 +1,73 @@
+#   -*- mode: org; fill-column: 60 -*-
+#+TITLE: Trivium Table of Contents
+#+STARTUP: showall
+#+PROPERTY: filename
+#+INCLUDE: ./inc/head.org
+#+HTML_HEAD: <link href="./css/index.css" rel="stylesheet" type="text/css" />
+  :PROPERTIES:
+  :Name: /home/deerpig/proj/chenla/trivium/triv-index.org
+  :Created: 2017-03-30T18:03@Prek Leap (11.642600N-104.919210W)
+  :ID: 60a9918c-7cb2-45f4-9913-b18ffcc799c5
+  :URL:
+  :END:
+#+INCLUDE: ./inc/head.org
+#+INCLUDE: ./inc/macros.org
+
+{{{breadcrumbs}}}
+
+#+HTML: <div class="outline-2" id="meta">
+| *Author*  | Brad Collins <brad@chenla.org>             |
+| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
+#+HTML: </div>
+
+#+TOC: headlines 4
+
+* About these pages
+
+#+begin_quote
+The Chenla Trivium is the foundation for learning to become a
+continuous process that is woven through out lives from cradle to
+grave.  Learning is not a place, it is a process.
+#+end_quote
+
+* Recent Activity
+
+Recent change activity on http://github.com/chenla/trivium
+
+* Introduction
+
+Mastery is the methology for life-long learning, living and
+work, especially in a world where knowledge, skills and even
+several entire disciplines and technologies emerge, mature,
+become mainstream and then become obsolete in the span of an
+individual's career.
+
+The Trivium prepares the mind to learn through directed and self
+directed study, to reason and think critically, and to organize ones
+thoughts and communicate them.  The Trivium provides the skills and
+tools to study the Quadrivium.
+
+The Quadrivium is provides the context needed to orient the mind and
+understand who, what, where, when, how and why.  What are we, where
+are we, how did we get here, where are we going, what has happened,
+how does everything fit together etc.
+
+* Table of Contents 
+
+  - [[./triv-notes.org][Notes]] | material that will be organized into other files
+
+  - [[./triv-introduction.org][Introduction]]
+
+  - [[./triv-mastery.org][Mastery]]
+    - [[./triv-practice.org][Practice]] :: a lot of the material in mastery will move here.
+    - [[./triv-otium.org][Otium]]
+    - [[./triv-negotium.org][Negotium]]
+
+  - Cognitive Toolbox
+    - [[./triv-grammar.org][Grammar]]
+    - [[./triv-logic.org][Logic]]
+    - [[./triv-rhetoric.org][Rhetoric]]
+
+
+
+
