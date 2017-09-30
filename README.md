@@ -1,11 +1,7 @@
 
 # Scopic Trivium
 
-<https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square>
-<https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square>
-<https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square>
-<https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square>
-<https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square>
+#+html: <https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square><https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square><https://img.shields.io/badge/type-readme-0072B2.svg?style=flat-square><https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square><https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square>
 
 The Trivium will provide students with the intellectual and rational
 tools to be able to understand and contribute to the development of
