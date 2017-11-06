@@ -110,6 +110,10 @@ the method permanently.
  - Gospel of Relaxation | William James (pdf)
  - Advice for a Young Investigator | Ramón y Cajal
  - Muße und Kult (Leisure: The Basis of Culture) | Josef Pieper
+ - Leisure: The Basis of Culture | Josef Pieper 1948
+
+ - [[https://en.wikipedia.org/wiki/Josef_Pieper][Josef Pieper]] | Wikipedia
+
 
 #+begin_comment
 Based on: NOTES <2015-07-24 Fri 12:29> Studyhall About Page
@@ -297,3 +301,24 @@ and intellectus and leisure were discarded.
 
 -- REST
 #+end_quote
+
+#+begin_quote
+The medievals distinguished between the intellect as /ratio/
+and the intellect as /intellectus/. /Ratio/ is the power of
+discursive thought, of searching and re-searching,
+abstracting, refining, and concluding [cf.  Latin
+/dis-currere/, ”to run to and fro”], whereas /intellectus/
+refers to the ability of ”simply looking” (/simplex
+intuitus/), to which the truth presents itself as a
+landscape presents itself to the eye. The spiritual knowing
+power of the human mind, as the ancients understood it, is
+really two things in one: /ratio/ and /intellectus/, all
+knowing involves both. The path of discursive reasoning is
+accompanied and penetrated by the /intellectus/’ untiring
+vision, which is not active but passive, or better,
+/receptive/ - a receptively operating power of the
+intellect.
+
+-- Josef Pieper, /Leisure, The Basis of Culture/ 1948
+#+end_quote
+
