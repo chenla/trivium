@@ -23,21 +23,82 @@
 * Introduction
 
 #+begin_quote
-> I found it irritating that there was inconsistent usage of tabs and
-> spaces at the beginning of lines.
+> I found it irritating that there was inconsistent usage of
+> tabs and spaces at the beginning of lines.
 
-When this happens, I recommend to go take a walk, look at the trees,
-enjoy life...
+When this happens, I recommend to go take a walk, look at
+the trees, enjoy life...
 
 -- [[http://mbork.pl/2017-05-17_Some_emacs-devel_humor][Marcin Borkowski: 2017-05-17 Some emacs-devel humor]]
 #+end_quote
 
 
-Beyond the three /subjects/ of the Trivium there is no practical
-methodology or philosophy about how to live and work.  The
-intellectual tools that the Trivium gives us must be matched by a
-daily workflow that is product and sustainable -- these two concepts
-are embodied in Mastery and Otium.
+Beyond the three /subjects/ of the Trivium there is no
+practical methodology or philosophy about how to live and
+work.  The intellectual tools that the Trivium gives us must
+be matched by a daily workflow that is product and
+sustainable -- these two concepts are embodied in Mastery
+and Otium.
+
+#+begin_quote
+Your dull, unhurried worker gets over a great deal of
+ground, because he never goes backward or breaks down. Your
+intense, convulsive worker breaks down and has bad moods so
+often that you never know where be may be when you most need
+his help,—he may be having one of his 'bad days.' We say
+that so many of our fellow-countrymen collapse, and have to
+be sent abroad to rest their nerves, because they work so
+hard. I suspect that this is an immense mistake. I suspect
+that neither the nature nor the amount of our work is
+accountable for the frequency and severity of our
+breakdowns, but that their cause lies rather in those absurd
+feelings of hurry and having no time, in that breathlessness
+and tension, that anxiety of feature and that solicitude for
+results, that lack of inner harmony and ease, in short, by
+which with us the work is so apt to be accompanied, and from
+which a European who should do the same work would nine
+times out of ten be free. These perfectly wanton and
+unnecessary tricks of inner attitude and outer mariner in
+us, caught from the social atmosphere, kept up by tradition,
+and idealized by many as the admirable way of life, are the
+last straws that break the American camel's back, the final
+overflowers of our measure of wear and tear and fatigue.
+
+-- William James, /The Gosple of Relaxation/ 1899
+#+end_quote
+
+
+#+begin_quote
+The advice I should give to most teachers would be in the
+words of one who is herself an admirable teacher. Prepare
+yourself in the subject so well that it shall be always on
+tap: then in the class-room trust your spontaneity and fling
+away all further care.
+
+-- William James, /The Gosple of Relaxation/ 1899
+#+end_quote
+
+
+#+begin_quote
+My advice to students, especially to girl-students, would be
+somewhat similar. Just as a bicycle-chain may be too tight,
+so may one's carefulness and conscientiousness be so tense
+as to hinder the running of one's mind. Take, for example,
+periods when there are many successive days of examination
+impending. One ounce of good nervous tone in an examination
+is worth many pounds of anxious study for it in advance. If
+you want really to do your best in an examination, fling
+away the book the day before, say to yourself, "I won't
+waste another minute on this miserable thing, and I don't
+care an iota whether I succeed or not." Say this sincerely,
+and feel it; and go out and play, or go to bed and sleep,
+and I am sure the results next day will encourage you to use
+the method permanently.
+
+-- William James, /The Gosple of Relaxation/ 1899
+#+end_quote
+
+
 
 * Otium
 
@@ -45,8 +106,8 @@ are embodied in Mastery and Otium.
  - [[bib:pang:2016rest][REST: Why You Get More Done When You Work Less]] | Alex Soojung-Kim Pang
  - [[https://www.scientificamerican.com/article/mental-downtime/][Why Your Brain Needs More Downtime]] | Scientific American
 
-
- - Gospel of Relaxation | William James
+ - [[https://www.uky.edu/~eushe2/Pajares/jgospel.html][The Gospel of Relaxation]] | William James
+ - Gospel of Relaxation | William James (pdf)
  - Advice for a Young Investigator | Ramón y Cajal
  - Muße und Kult (Leisure: The Basis of Culture) | Josef Pieper
 
@@ -59,48 +120,53 @@ My concept of Otium is now evolving more towards the larger concept of
 #+end_comment
 
 
-In addressing the deep learning deficiencies that are inherent in
-Hacker Culture, it is worth looking at the complex concept of [[https://en.wikipedia.org/wiki/Otium][otium]].
+In addressing the deep learning deficiencies that are
+inherent in Hacker Culture, it is worth looking at the
+complex concept of [[https://en.wikipedia.org/wiki/Otium][otium]].
 
-We use /otium/ in the sense of a period of time spent retiring from
-public or daily life for the purpose of quiet contemplation.  The
-opposite of otium, /negotium/ is public life, from which we get the
-english word /negotiation/.
+We use /otium/ in the sense of a period of time spent
+retiring from public or daily life for the purpose of quiet
+contemplation.  The opposite of otium, /negotium/ is public
+life, from which we get the english word /negotiation/.
 
-The concept of otium is the polar opposite of the hyper-connected
-always on, always available life online.  Otium is all about
-assimilation of what has been learned and experienced, and dedicated
-to looking for connections and a deeper understanding of things in a
-larger context.  Otium is a time for reading, for writing, for
-thinking and sketching.  It is a different kind of work, which is
+The concept of otium is the polar opposite of the
+hyper-connected always on, always available life online.
+Otium is all about assimilation of what has been learned and
+experienced, and dedicated to looking for connections and a
+deeper understanding of things in a larger context.  Otium
+is a time for reading, for writing, for thinking and
+sketching.  It is a different kind of work, which is
 neccessary to really learning anything.
 
-Sleep is similar, in that it is a time for the brain to make chemical
-repairs, but it is also a time for the sub-conscious to work through
-problems and make connections that it couldn't do when awake.
+Sleep is similar, in that it is a time for the brain to make
+chemical repairs, but it is also a time for the
+sub-conscious to work through problems and make connections
+that it couldn't do when awake.
 
-Life connected to the firehose of social media, news cycles, and a
-constant barrage on the senses from adversiting, social and work
-responsibilities overwhelms and makes it impossible to see what is
-really happening, to see the patterns in the chaos.  It is only when
-you have time to make those connections that you turn information into
+Life connected to the firehose of social media, news cycles,
+and a constant barrage on the senses from adversiting,
+social and work responsibilities overwhelms and makes it
+impossible to see what is really happening, to see the
+patterns in the chaos.  It is only when you have time to
+make those connections that you turn information into
 knowledge and knowledge into wisdom.
 
-Traditional education in small doses, when done right, has many
-worthwhile traditions and methodologies but they tend to be expensive,
-and time consuming.
+Traditional education in small doses, when done right, has
+many worthwhile traditions and methodologies but they tend
+to be expensive, and time consuming.
 
-Setting aside some time for otium, and deep learning is preferable to
-attending traditional training or school courses because they part of
-public life, group politics, peer pressure that are prone to
-distraction.
+Setting aside some time for otium, and deep learning is
+preferable to attending traditional training or school
+courses because they part of public life, group politics,
+peer pressure that are prone to distraction.
 
-The first problem is to weave periods of otium into daily life.  A few
-minutes with a cup of coffee, in a quiet place with the phone in
-airplane mode.  A long walk at dusk, along the riverside, working
-through a problem without distractions.  The second problem, which is
-harder than the first, is how to integrate this concept, how to learn
-to shut off the firehose and be comfortable with your thoughts.
+The first problem is to weave periods of otium into daily
+life.  A few minutes with a cup of coffee, in a quiet place
+with the phone in airplane mode.  A long walk at dusk, along
+the riverside, working through a problem without
+distractions.  The second problem, which is harder than the
+first, is how to integrate this concept, how to learn to
+shut off the firehose and be comfortable with your thoughts.
 
 * Dealing with increasing Rate of Change
 
