@@ -20,9 +20,6 @@
 
 #+TOC: headlines 4
 
-The quad files will later be split into their own repo, but
-for not they will be kept in the trivium repo with the
-prefix 'quad'.
 
 * Table of Contents
 
