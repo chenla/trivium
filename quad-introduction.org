@@ -21,6 +21,10 @@
 #+TOC: headlines 4
 
 
+
+
+
+
 The original Quadrivium was made up of four subjects that each dealt
 with different aspects of number and magnitude: arithmetic, geometry,
 music and astronomy.  This originated with Plato's belief that the
@@ -45,22 +49,42 @@ Universe could best be understood in terms of number.
 
 * Introduction
 
-Our understanding of how the world works is far more complex and
-nuanced today.  And even though in recent years the idea that we live
-in a /mathematical universe/ has brought us full circle back to Plato
-in some respects, mathematics is still removed from physical reality
-and from mind.  Mathematics is very good at modeling the universe, but
-the universe is better unstood in terms of information.  Information
-is a gray area that sits somewhere between mathematics and the
-physical universe.  Information is directly connected to the physical
-universe, it requires energy to create and destroy it.  And
-increasingly information is being seen as the basic building block of
-the universe -- everything in the universe, space, matter and energy
-can be thought of as actualized information.  As if information was a
-computer program, that compiles into matter, energy and space.
+Our understanding of how the world works is far more complex
+and nuanced today.  And even though in recent years the idea
+that we live in a /mathematical universe/ has brought us
+full circle back to Plato in some respects, mathematics is
+still removed from physical reality and from mind.
 
-The new Quadrivium is made up of four subject that deal with different
-aspects of information; mimesis, rhizomata, systema and transacta.
+Mathematics is very good at modeling the universe, but the
+universe is better understood in terms of complexity and it's
+opposite, entropy.  Entropy is relentless and inevitable.
+Complexity is both exceptional and fragile.  Complexity
+would not be possible without entropy and vice versa.
+
+#+begin_quote
+Information is always a measure of the decrease of
+uncertainty at a receiver (or molecular machine).
+
+            R = H(x) - Hy(x) 
+
+-- [[https://schneider.ncifcrf.gov/information.is.not.uncertainty.html][Information Is Not Uncertainty]]
+-- [[https://schneider.ncifcrf.gov/bionet.info-theory.faq.html#Information.Equal.Entropy][bionet.info-theory FAQ]]
+#+end_quote
+
+information.  Information is a gray area that sits somewhere
+between mathematics and the physical universe.  Information
+is directly connected to the physical universe, it requires
+energy to create and destroy it.  And increasingly
+information is being seen as the basic building block of the
+universe -- everything in the universe, space, matter and
+energy can be thought of as actualized information.  As if
+information was a computer program, that compiles into
+matter, energy and space.
+
+
+The new Quadrivium is made up of four subject that deal with
+different aspects of information; mimesis, rhizomata,
+systema and transacta.
  
 the four arts pertaining to information expressed as matter,
 energy, space and time.
@@ -90,6 +114,10 @@ energy, space and time.
     history, communication, engineering, ecologies
 
 
+Like the trivium, these are not subjects in the traditional
+sense of the word
+
+
 ** Mimesis
 
 Mimesis is concerned with the internal and externalised systems used
@@ -101,7 +129,6 @@ a theory is linguistic, a model is a non-linguistic realization of a
 theory.
 
 models can be linguistic, non-linguistic and physical.
-
 
 *** Mathematics
 
@@ -131,12 +158,22 @@ recognition machine.
 *** Data
 
 ** Rhizomata
+
+Rhizomata is concerned with the structures that make up models and
+maps.
+
+ - holons
+ - pace layers
+ - rhizomes
+ - data structures
+
+
+
 ** Systema
 ** Transacta
 
-Where the Trivium is concerned with the preparation of the mind as an
-individual, Trasacta is concerned with the preparation of the mind to
-be part of collective human society and species.
+Transacta is concerned with the interactions between the
+different parts of a system.
 
 Humans in isolation as individuals cut off from other humans are
 animals.  All human intelligence, and intellectual achievements have
