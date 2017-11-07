@@ -71,51 +71,31 @@ uncertainty at a receiver (or molecular machine).
 -- [[https://schneider.ncifcrf.gov/bionet.info-theory.faq.html#Information.Equal.Entropy][bionet.info-theory FAQ]]
 #+end_quote
 
-information.  Information is a gray area that sits somewhere
-between mathematics and the physical universe.  Information
-is directly connected to the physical universe, it requires
-energy to create and destroy it.  And increasingly
-information is being seen as the basic building block of the
-universe -- everything in the universe, space, matter and
-energy can be thought of as actualized information.  As if
-information was a computer program, that compiles into
-matter, energy and space.
-
-
 The new Quadrivium is made up of four subject that deal with
 different aspects of information; mimesis, rhizomata,
 systema and transacta.
  
-the four arts pertaining to information expressed as matter,
+The four arts pertain to information expressed as matter,
 energy, space and time.
 
-   /discrete information/
 
-  - mimesis   :: theory of models
-    internal & external maps/models of reality
-    
-    cosmology, cognition, mathematics, data types
 
-  - rhizomata :: applied models
+  - mimesis   :: theory of models/maps
+       map and territory  
 
-    data structures, philosophy
+  - rhizomata :: theory of structures
+       sets, lists, trees, graphs
 
-  /continuous information/ 
+  - systema   :: theory of holons
 
-  - systema   :: theory of systems
-    organized entity made up of interrelated and interdependent parts
-
-    physics, chemistry, biology, cybernetics, geometry
-
-  - transacta :: applied systems 
-    interaction between parts in a system
-
-    astronomy, social (cooperation), economics, 
-    history, communication, engineering, ecologies
+  - transacta :: theory of processes 
+       threads running through systems
 
 
 Like the trivium, these are not subjects in the traditional
-sense of the word
+sense of the word.  Different aspects of traditional
+subjects such as physics, chemistry, mathematics etc will
+belong to each of the four arts.
 
 
 ** Mimesis
