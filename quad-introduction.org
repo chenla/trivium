@@ -20,12 +20,30 @@
 
 #+TOC: headlines 4
 
-* Introduction
 
 The original Quadrivium was made up of four subjects that each dealt
 with different aspects of number and magnitude: arithmetic, geometry,
 music and astronomy.  This originated with Plato's belief that the
 Universe could best be understood in terms of number.
+
+ - Quadrivium :: four arts of quantity pertaining to matter
+
+  /discrete quantities/
+
+   - arithmetic (theory of number)
+     - algebra, calculus, etc
+   - music (applied theory of number)
+     - harmony, chemistry, 
+
+   /continuous quantity/
+
+   - geometry (theory of space)
+     - geometry, trigonometry
+   - astronomy (applied theory of space)
+     - architecture, geography, surveying, engineering 
+
+
+* Introduction
 
 Our understanding of how the world works is far more complex and
 nuanced today.  And even though in recent years the idea that we live
@@ -44,6 +62,34 @@ computer program, that compiles into matter, energy and space.
 The new Quadrivium is made up of four subject that deal with different
 aspects of information; mimesis, rhizomata, systema and transacta.
  
+the four arts pertaining to information expressed as matter,
+energy, space and time.
+
+   /discrete information/
+
+  - mimesis   :: theory of models
+    internal & external maps/models of reality
+    
+    cosmology, cognition, mathematics, data types
+
+  - rhizomata :: applied models
+
+    data structures, philosophy
+
+  /continuous information/ 
+
+  - systema   :: theory of systems
+    organized entity made up of interrelated and interdependent parts
+
+    physics, chemistry, biology, cybernetics, geometry
+
+  - transacta :: applied systems 
+    interaction between parts in a system
+
+    astronomy, social (cooperation), economics, 
+    history, communication, engineering, ecologies
+
+
 ** Mimesis
 
 Mimesis is concerned with the internal and externalised systems used
@@ -84,7 +130,7 @@ recognition machine.
 *** Models of Data
 *** Data
 
-** Rhizomata,
+** Rhizomata
 ** Systema
 ** Transacta
 

@@ -532,7 +532,7 @@ the tools needed to study the quadrivium
     - written language -- tools to express written language - chalk,
       ink and bits.  
     - reading :: 4 kinds
-    - etymology :: history & conext of words
+    - etymology :: history & context of words
     - history :: time as narratives 
       - process philosophy
       - oral, written & code traditions
