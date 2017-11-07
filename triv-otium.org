@@ -20,6 +20,8 @@
 
 #+TOC: headlines 4
 
+
+
 * Introduction
 
 #+begin_quote
@@ -97,8 +99,6 @@ the method permanently.
 
 -- William James, /The Gosple of Relaxation/ 1899
 #+end_quote
-
-
 
 * Otium
 
