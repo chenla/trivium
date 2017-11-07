@@ -22,7 +22,22 @@
 
 * Introduction
 
+  - [[https://sites.google.com/site/steveyegge2/practicing-programming][practicing-programming]] | steveyegge2
+  - [[http://www.norvig.com/21-days.html][Teach Yourself Programming in Ten Years]] | Peter Norvig
 
+  - [[https://www.ronaldreaganhs.org/cms/lib7/WI01001304/Centricity/Domain/187/Grit%20JPSP.pdf][Grit: Perseverance and Passion for Long-Term Goals]] |
+    Angela Duckworth 2007 (article)
+  - [[id:duckworth:2007grit][Grit: Perseverance and Passion for Long-Term Goals]] |
+    Angela Duckworth 2016 (book)
+  - [[https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance][Grit: The power of passion and perseverance]] | TED Talk
+  - [[http://angeladuckworth.com/grit-scale/][Grit Assessment]] | Survey Quiz
+  
+  - Developing Talent in Young People | Benjamin Bloom,  Ballantine, 1985. [OUP]
+  - [[http://worrydream.com/refs/Brooks-NoSilverBullet.pdf][No Silver Bullet – Essence and Accident in Software
+    Engineering]] | Fred Brooks 
+  - [[https://en.wikipedia.org/wiki/No_Silver_Bullet][No Silver Bullet]] - Wikipedia
+  - Cognition in Practice: Mind, Mathematics and Culture in
+    Everyday Life | Jean Lave 1988
 
 * John Coltrane
 
@@ -55,6 +70,7 @@ for a sculptor -- they contain all music.
   - [[http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf][How to Read a Paper]] | S. Keshav (2016) pdf
   - [[http://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/][How to read and understand a scientific paper: a guide
     for non-scientists]] | London School of Economics [[bib:short:2009art][cite]]
+
 
 * Review articles
 
