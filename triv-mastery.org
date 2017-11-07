@@ -286,8 +286,8 @@ threat to the system itself.
 
 * Self Discipline & Willpower
 
- - Willpower by Tierney and Baumeister
- - The Power of Habit by Duhigg
+ - [[id:baumeister:2011willpower][Willpower]] | Roy F. Baumeister (2011)
+ - [[id:duhigg:2012habit][The Power of Habit]] | Charles Duhigg (2012)
 
 * Motivation & perseverance
 
