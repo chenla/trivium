@@ -20,6 +20,28 @@
 
 #+TOC: headlines 4
 
+
+#+begin_quote
+    Vita brevis,
+    ars longa,
+    occasio praeceps,
+    experimentum periculosum,
+    iudicium difficile.
+
+    Life is short,
+    and art long,
+    opportunity fleeting,
+    experimentations perilous,
+    and judgment difficult. 
+
+--  Hippocrates 
+
+
+"The lyf so short, the craft so long to lerne" -- Chaucer
+
+    [[https://en.wikipedia.org/wiki/Ars_longa%2C_vita_brevis][Ars longa, vita brevis]] - Wikipedia
+#+end_quote
+
 * Introduction
 
 I'm now going to break up mastery into four parts:
@@ -131,6 +153,39 @@ improve your skill, and are hard to replicate.”
 -- [[https://www.robinwieruch.de/lessons-learned-deep-work-flow/][(Deep Work) => Flow]] | RWieruch
 #+end_quote
 
+This quote is another way of saying /Ratio/ and /Intellectus/ 
+
+#+begin_quote
+The medievals distinguished between the intellect as
+/ratio/and the intellect as /intellectus/. /Ratio/ is the
+power of discursive thought, of searching and re-searching,
+abstracting, refining, and concluding [cf.  Latin
+/dis-currere/ ”to run to and fro”], whereas /intellectus/
+refers to the ability of ”simply looking” (/simplex
+intuitus/), to which the truth presents itself as a
+landscape presents itself to the eye. The spiritual knowing
+power of the human mind, as the ancients understood it, is
+really two things in one: /ratio/ and /intellectus/, all
+knowing involves both. The path of discursive reasoning is
+accompanied and penetrated by the /intellectus’/ untiring
+vision, which is not active but passive, or better,
+receptive - a receptively operating power of the intellect.
+
+-- Pieper Leisure The Basis of Culture
+#+end_quote
+
+
+Intellectus is not the same as shallow -- it is grasping
+something in total.  Though shallow can be thought of as
+intellectus, but with a negative connotation.
+
+Another way of seeing this is as a holon, /intellectus/ sees
+something as a whole, where as /ratio/ (see quote from
+Pieper's /Leisure As a Basis of Culture/) as a sees and dives into
+all of the parts that make up that whole.  Shallow is seeing
+the whole in the ground, ratio is diving down the rabbit hole.
+
+
 
 ** Care
 
@@ -227,3 +282,29 @@ class advance together.  The system is designed from the
 bottom up to do this.  It is not only difficult to introduce
 a system where students advance at different rates, it is a
 threat to the system itself.
+
+
+* Self Discipline & Willpower
+
+ - Willpower by Tierney and Baumeister
+ - The Power of Habit by Duhigg
+
+* Motivation & perseverance
+
+ Passion and perseverance for long term goals
+
+ - [[https://www.ronaldreaganhs.org/cms/lib7/WI01001304/Centricity/Domain/187/Grit%20JPSP.pdf][Grit: Perseverance and Passion for Long-Term Goals]] |
+   Angela Duckworth 2007 (article)
+ - [[id:duckworth:2007grit][Grit: Perseverance and Passion for Long-Term Goals]] |
+   Angela Duckworth 2016 (book)
+
+
+ - [[https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance][Grit: The power of passion and perseverance]] | TED Talk
+ - [[http://angeladuckworth.com/grit-scale/][Grit Assessment]] | Survey Quiz
+  
+
+2.) For an adaptive/active mindset (and recovering from failure)
+
+ - Mindset by Carol Dweck
+ - Apapt by Tim Harford
+
