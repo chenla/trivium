@@ -1,29 +1,37 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Rhetoric
+
+#+TITLE: Rhetoric | Trivium
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/triv-rhetoric.org
-  :Created: 2017-03-10T15:02@Prek Leap (11.642600N-104.919210W)
-  :ID: 03cf0f32-e082-4651-a8a5-bda176ae1c8e
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
 
 * Introduction
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/trivium/triv-rhetoric.org
+:Name: /home/deerpig/proj/chenla/trivium/triv-rhetoric.org
+:Created: 2017-03-10T15:02@Prek Leap (11.642600N-104.919210W)
+:VER:       564190359.507828520
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:EDH2-1673
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
 
 
-** Memory
+*** Memory
 
 - [[bib:yates:2016memory][The Art of Memory]] | Yates
 - [[bib:smile:2012memory][The Memory Palace - Learn Anything and Everything]] | Smile
@@ -136,7 +144,7 @@ material is not accessible to the general public.
 -- [[https://www.amazon.com/gp/customer-reviews/RIGRYG8L7ZBCM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0226950018][Top 100 Non Fiction of Twentieth Century: Merited]] | S.Pactor, Amazon Review
 #+end_quote
 
-* Malory Quote
+** Malory Quote
 
 
 #+begin_quote
@@ -226,8 +234,8 @@ pg lxxiv-lxxix
 [[https://en.wikipedia.org/wiki/Eug%C3%A8ne_Vinaver][Eugène Vinaver]]    | Wikipedia
 [[https://en.wikipedia.org/wiki/John_of_Salisbury][John of Salisbury]] | Wikipedia
 
-* Rhetoric Links
-** What did Rhetoric teach?
+** Rhetoric Links
+*** What did Rhetoric teach?
 
 Martianus Capella, /Marriage/, bk. V, trans. Stahl, pp. 155-214
 
@@ -238,7 +246,7 @@ Cassiodorus, /Institutions/, bk. II, chap. II, trans. Halporn, pp.
 Martin Camargo, ﾒRhetoric,ﾓ in /The Seven Liberal Arts/, ed. Wagner, pp.
 96-124 [Chalk]
 
-** /Rhetorica christiana/
+*** /Rhetorica christiana/
 
 Augustine of Hippo, /On Christian Doctrine/, bk. IV, trans. J.F. Shaw,
 pp. 154-203 [CCEL http://www.ccel.org/a/augustine/doctrine/]
@@ -248,7 +256,7 @@ trans. Gussie Hecht Tannenhaus, in /Readings in Medieval Rhetoric/, eds.
 Miller et al., pp. 96-122 [Chalk; Reg]
 
  
-** /Ars poetica/
+*** /Ars poetica/
 
 Matthew of Vend冦e, /Ars versificatoria/ [/The Art of Versification/],
 trans. Aubrey E. Galyon (Ames: Iowa State University Press, 1980), pp.
@@ -257,7 +265,7 @@ trans. Aubrey E. Galyon (Ames: Iowa State University Press, 1980), pp.
 Geoffrey of Vinsauf, /Poetria nova/, trans. Margaret F. Nims (Toronto:
 Pontifical Institute of Mediaeval Studies, 1967), pp. 15-93 [Chalk]
 
-** /Ars dictaminis/
+*** /Ars dictaminis/
 
 John of Garland, /Parisiana poetria/, ed. and trans. Traugott Lawler
 (New Haven: Yale University Press, 1974), chaps. 1-4, 7, pp. 3-83,
@@ -269,7 +277,7 @@ Arts/, ed. James J. Murphy (Berkeley and Los Angeles: University of
 California Press, 1971), pp. 3-25 [Chalk; Reg]
 
 
-** /Ars praedicandi/
+*** /Ars praedicandi/
 
 Thomas of Chobham, /Summa de arte praedicandi/, in /Medieval Grammar and
 Rhetoric/, eds. Copeland and Sluiter, pp. 614-38 [Chalk; Reg]
