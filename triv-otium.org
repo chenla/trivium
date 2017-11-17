@@ -1,28 +1,35 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Otium
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/triv-otium.org
-  :Created: 2017-04-20T10:17@Prek Leap (11.642600N-104.919210W)
-  :ID: 55a6372f-54ef-421c-a9d0-ba7a95ff2c3b
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
 
 
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-* Introduction
+
+* Otium
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/trivium/triv-otium.org
+:Created:   2017-04-20T10:17@Prek Leap (11.642600N-104.919210W)
+:ID:        55a6372f-54ef-421c-a9d0-ba7a95ff2c3b
+:VER:       564190019.507200034
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:WOK1-3263
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+
+** Introduction
 
 #+begin_quote
 > I found it irritating that there was inconsistent usage of
@@ -100,7 +107,7 @@ the method permanently.
 -- William James, /The Gosple of Relaxation/ 1899
 #+end_quote
 
-* Otium
+** Otium
 
  - [[http://nautil.us/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too][You Should Work Less Hours—Darwin Did]] | Nautilus
  - [[bib:pang:2016rest][REST: Why You Get More Done When You Work Less]] | Alex Soojung-Kim Pang
@@ -172,7 +179,7 @@ distractions.  The second problem, which is harder than the
 first, is how to integrate this concept, how to learn to
 shut off the firehose and be comfortable with your thoughts.
 
-* Dealing with increasing Rate of Change
+** Dealing with increasing Rate of Change
 
 How much of Otium is slowing things down -- to deliberately
 not try to take in too much at once?
@@ -196,7 +203,7 @@ important that we don't know exist...  and that is the real
 challenge here.
 
 
-* Quotes
+** Quotes
 
 #+begin_quote
 THE IDEA OF work and rest as opposites and competitors now
