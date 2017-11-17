@@ -1,6 +1,9 @@
 #   -*- mode: org; fill-column: 60 -*-
 #+STARTUP: showall
 #+TITLE:   Trivium | TOC
+
+
+* Trivium | Table of Contents
 :PROPERTIES:
 :CUSTOM_ID:
 :Name:      /home/deerpig/proj/chenla/trivium/index.org
@@ -15,14 +18,14 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-* Trivium | Table of Contents
+
 [[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
 [[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
 [[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-* About
+** About
 
 #+begin_quote
 The Chenla Trivium is the foundation for learning to become a
@@ -46,7 +49,7 @@ understand who, what, where, when, how and why.  What are we, where
 are we, how did we get here, where are we going, what has happened,
 how does everything fit together etc.
 
-* Table of Contents 
+** Table of Contents 
 
   - [[./triv-notes.org][Notes]] | material that will be organized into other files
 
