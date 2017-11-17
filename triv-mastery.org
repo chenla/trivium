@@ -1,24 +1,31 @@
 #   -*- mode: org; fill-column: 60 -*-
+
 #+TITLE: Mastery
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/triv-mastery.org
-  :Created: 2017-02-13T12:13@Prek Leap (11.642600N-104.919210W)
-  :ID: 85b5b600-1212-475e-8aed-2ff90df670dc
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Mastery
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/trivium/triv-mastery.org
+:Created: 2017-02-13T12:13@Prek Leap (11.642600N-104.919210W)
+:ID: 85b5b600-1212-475e-8aed-2ff90df670dc
+:VER:       564190895.988988552
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:LJH5-5304
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
 
 
 #+begin_quote
@@ -42,7 +49,7 @@
     [[https://en.wikipedia.org/wiki/Ars_longa%2C_vita_brevis][Ars longa, vita brevis]] - Wikipedia
 #+end_quote
 
-* Introduction
+** Introduction
 
 I'm now going to break up mastery into four parts:
 
@@ -123,7 +130,7 @@ Mastery is:
   - A journey; and,
   - Determination
 
-** Practice
+*** Practice
 
  - [[bib:coyle:2012][The Little Book of Talent | ]]Daniel Coyle
  - [[bib:coyle:2009talent][The Talent Code]] | Daniel Coyle
@@ -135,7 +142,7 @@ Mastery is:
  - [[bib:leonard:1992mastery][Mastery. The Keys To Success And Long Term Fulfillment]] |
    George Leonard
  
-** (Deep Work) => Flow
+*** (Deep Work) => Flow
 
   - [[https://www.robinwieruch.de/lessons-learned-deep-work-flow/][(Deep Work) => Flow]] | RWieruch
 
@@ -185,9 +192,7 @@ Pieper's /Leisure As a Basis of Culture/) as a sees and dives into
 all of the parts that make up that whole.  Shallow is seeing
 the whole in the ground, ratio is diving down the rabbit hole.
 
-
-
-** Care
+*** Care
 
 Deeply caring is central to everything....
 
@@ -220,13 +225,13 @@ would ever see would be in complete agreement with Jobs.
 Find references to Seattle legislature building with hidden
 sculptures
 
-* Things You Should Know
+** Things You Should Know
 
   - [[http://programmer.97things.oreilly.com/wiki/index.php/97_Things_Every_Programmer_Should_Know][97 Things Every Programmer Should Know]] | O'Reilly Media
   - [[http://programmer.97things.oreilly.com/wiki/index.php/Other_Edited_Contributions][Other Edited Contributions]] | O'Reilly Media
   - [[http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book][Contributions Appearing in the Book]] | O'Reilly Media
 
-* Mastery Learning 
+** Mastery Learning 
 
  - [[https://en.wikipedia.org/wiki/Mastery_learning][Mastery learning]] | Wikipedia
 
@@ -284,12 +289,12 @@ a system where students advance at different rates, it is a
 threat to the system itself.
 
 
-* Self Discipline & Willpower
+** Self Discipline & Willpower
 
  - [[id:baumeister:2011willpower][Willpower]] | Roy F. Baumeister (2011)
  - [[id:duhigg:2012habit][The Power of Habit]] | Charles Duhigg (2012)
 
-* Motivation & perseverance
+** Motivation & perseverance
 
  Passion and perseverance for long term goals
 
