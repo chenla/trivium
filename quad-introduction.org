@@ -1,27 +1,30 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Introduction
+
+#+TITLE: Introduction | Quadrivium
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/quad-introduction.org
-  :Created: 2017-03-30T17:45@Prek Leap (11.642600N-104.919210W)
-  :ID: aa32930a-3ee2-4420-b6b9-4f1987cca43c
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
 
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-
+* Introduction | Quadrivium
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/trivium/quad-introduction.org
+:Created:   2017-03-30T17:45@Prek Leap (11.642600N-104.919210W)
+:ID:        aa32930a-3ee2-4420-b6b9-4f1987cca43c
+:VER:       564188865.137237992
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:NAU2-4815
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
 
 
 
@@ -47,7 +50,7 @@ Universe could best be understood in terms of number.
      - architecture, geography, surveying, engineering 
 
 
-* Introduction
+** Introduction
 
 Our understanding of how the world works is far more complex
 and nuanced today.  And even though in recent years the idea
@@ -79,7 +82,6 @@ The four arts pertain to information expressed as matter,
 energy, space and time.
 
 
-
   - mimesis   :: theory of models/maps
        map and territory  
 
@@ -87,6 +89,7 @@ energy, space and time.
        sets, lists, trees, graphs
 
   - systema   :: theory of holons
+       dual nature of parts and wholes
 
   - transacta :: theory of processes 
        threads running through systems
@@ -98,7 +101,7 @@ subjects such as physics, chemistry, mathematics etc will
 belong to each of the four arts.
 
 
-** Mimesis
+*** Mimesis
 
 Mimesis is concerned with the internal and externalised systems used
 to represent reality.
@@ -110,7 +113,7 @@ theory.
 
 models can be linguistic, non-linguistic and physical.
 
-*** Mathematics
+**** Mathematics
 
 Mathematics represents reality in terms of relationships between
 descrete quantities.  For math to be able to model reality, reality
@@ -125,19 +128,19 @@ Mathematics is a good match with the human brain, which is a pattern
 recognition machine.
 
 
-*** Instantial Models and Analogy
-*** Representational Models
-**** Material Models :: Maps
-**** Material Models :: Diagrams
-**** Material Models :: Scale Models
-*** Abstract Models
-*** Hypothesis
-*** Theoretical Models
-*** Mathematical Models
-*** Models of Data
-*** Data
+**** Instantial Models and Analogy
+**** Representational Models
+***** Material Models :: Maps
+***** Material Models :: Diagrams
+***** Material Models :: Scale Models
+**** Abstract Models
+**** Hypothesis
+**** Theoretical Models
+**** Mathematical Models
+**** Models of Data
+**** Data
 
-** Rhizomata
+*** Rhizomata
 
 Rhizomata is concerned with the structures that make up models and
 maps.
@@ -149,8 +152,8 @@ maps.
 
 
 
-** Systema
-** Transacta
+*** Systema
+*** Transacta
 
 Transacta is concerned with the interactions between the
 different parts of a system.
