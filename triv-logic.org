@@ -1,26 +1,32 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Logic
+
+#+TITLE: Grammar | Trivium
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/triv-logic.org
-  :Created: 2017-03-11T21:31@Prek Leap (11.642600N-104.919210W)
-  :ID: ff5e852a-bcbb-48e2-a4b2-dbf678f24fbe
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
 
-* Introduction
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+* Grammar | Trivium
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/trivium/triv-logic.org
+:Created: 2017-03-11T21:31@Prek Leap (11.642600N-104.919210W)
+:ID: ff5e852a-bcbb-48e2-a4b2-dbf678f24fbe
+:VER:       564189484.029509893
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:YAQ7-7023
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
 
 #+begin_quote
 To appreciate the form and content of these debates, it is
@@ -233,9 +239,9 @@ the philosophy of Thomas Aquinas.
 
 
 
-* Dialectic Links
+** Dialectic Links
 
-** What did Dialectic teach?
+*** What did Dialectic teach?
 
 Martianus Capella, /Marriage/, bk. IV, trans. Stahl, pp. 106-154
 
@@ -246,22 +252,16 @@ Cassiodorus, /Institutions/, bk. II, chap. III, trans. Halporn, pp.
 Eleanore Stump, ﾒDialectic,ﾓ in /The Seven Liberal Arts/, ed. Wagner,
 pp. 125-46 [Chalk; Reg]
 
- 
-
-** The Problem with Education These Days
+*** The Problem with Education These Days
 
 John of Salisbury, /Metalogicon/, Prologue; bk. I, chaps. 1-12; bk. II,
 chaps. 1-20; trans. McGarry, pp. 3-37, 73-141
 
- 
-
-** The Point of It All
+*** The Point of It All
 
 John of Salisbury, /Metalogicon/, bks. III-IV, trans. McGarry, pp. 142-276
 
- 
-
-** Applied Dialectic: Universals and Particulars
+*** Applied Dialectic: Universals and Particulars
 
 Aristotle, Porphyry, Boethius, Garlandus Compotista, and Abelard, in
 /Basic Issues in Medieval Philosophy/, eds. Bosley and Tweedale, Topic
