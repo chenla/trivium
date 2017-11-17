@@ -1,26 +1,34 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Practice
+
+#+TITLE: Practice 
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/triv-practice.org
-  :Created: 2017-04-20T18:29@Prek Leap (11.642600N-104.919210W)
-  :ID: 0dac1b2a-4b7f-461c-a91f-a2e4a89772c1
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
 
-* Introduction
+
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
+
+
+* Practice
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/trivium/triv-practice.org
+:Created: 2017-04-20T18:29@Prek Leap (11.642600N-104.919210W)
+:ID: 0dac1b2a-4b7f-461c-a91f-a2e4a89772c1
+:VER:       564190187.532541558
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:JBA0-6186
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+** Introduction
 
   - [[https://sites.google.com/site/steveyegge2/practicing-programming][practicing-programming]] | steveyegge2
   - [[http://www.norvig.com/21-days.html][Teach Yourself Programming in Ten Years]] | Peter Norvig
@@ -39,7 +47,7 @@
   - Cognition in Practice: Mind, Mathematics and Culture in
     Everyday Life | Jean Lave 1988
 
-* John Coltrane
+** John Coltrane
 
 Need to track down this story, but I remember reading, on an album
 cover for some Coltrane Bluenote album (I think) the the story of when
@@ -55,7 +63,7 @@ You could say that scales are for musicians, what a block of marble is
 for a sculptor -- they contain all music.
 
 
-* How to Read A Paper 
+** How to Read A Paper 
 
   - [[https://codearsonist.com/reading-for-programmers][Reading for Programmers]] | Piotr Limanowski
     Includes org-mode toolchain and workflow including org,
@@ -72,7 +80,7 @@ for a sculptor -- they contain all music.
     for non-scientists]] | London School of Economics [[bib:short:2009art][cite]]
 
 
-* Review articles
+** Review articles
 
 #+begin_quote
 Not to be confused with a “peer reviewed journal,” Review
