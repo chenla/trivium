@@ -1,29 +1,36 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Grammar
+
+#+TITLE: Grammar | Trivium
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/triv-grammar.org
-  :Created: 2017-03-11T21:33@Prek Leap (11.642600N-104.919210W)
-  :ID: f067de9b-3c8f-4ae5-8403-245dd901aea0
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
-
-{{{breadcrumbs}}}
-
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
-
 #+TOC: headlines 4
+#+PROPERTY: filename
 
-* Introduction
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/type-work-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-* Grammar Links
-** What did Grammar teach?
+* Grammar | Trivium
+:PROPERTIES:
+:CUSTOM_ID: 
+:Name:      /home/deerpig/proj/chenla/trivium/triv-grammar.org
+:Created: 2017-03-11T21:33@Prek Leap (11.642600N-104.919210W)
+:ID: f067de9b-3c8f-4ae5-8403-245dd901aea0
+:VER:       564189191.370729707
+:GEO:       48P-491193-1287029-15
+:BXID:      proj:VPB7-7366
+:Class:     primer
+:Type:      work
+:Status:    wip
+:Licence:   MIT/CC BY-SA 4.0
+:END:
+
+
+** Introduction
+
+** Grammar Links
+*** What did Grammar teach?
 
 Martianus Capella, /Marriage/, bk. III, trans. Stahl, pp. 64-105.
 
@@ -34,7 +41,7 @@ preface, trans. James W. Halporn (Liverpool: Liverpool University Press,
 Jeffrey F. Huntsman, ﾒGrammar,ﾓ in /The Seven Liberal Arts/, ed. Wagner,
 pp. 58-95 [Chalk; Reg]
 
-** /Ars grammatica antiqua/
+*** /Ars grammatica antiqua/
 
 Aelius Donatus, /Ars Minor/, /Ars Maior/, in /Medieval Grammar and
 Rhetoric/, eds. Copeland and Sluiter, pp. 82-99 [Chalk; Reg]
@@ -53,7 +60,7 @@ Glosses on Priscian by Remigius and His Followers, in /Medieval Grammar
 and Rhetoric/, eds. Copeland and Sluiter, pp. 299-310 [Chalk; Reg]
 
 
-** Reading the classics
+*** Reading the classics
 
 /Accessus ad auctores/[Introductions to the Authors], in /Medieval
 Literary Theory and Criticism, c. 1100-c.1375: The Commentary
@@ -65,7 +72,7 @@ Theory/, eds. Minnis and Scott, pp. 37-64 [Chalk]
 
  
 
-** Thinking grammatically
+*** Thinking grammatically
 
 Anselm of Canterbury, /De grammatico/, in /The Major Works/, eds. Brian
 Davies and G.R. Evans (Oxford: Oxford University Press, 1998), pp.
@@ -76,7 +83,7 @@ pp. 37-72 [Sem Co-op; Reg]
 
  
 
-** /Ars grammatica nova/
+*** /Ars grammatica nova/
 
 Alexander of Villa Dei, /Doctrinale/, in /Medieval Grammar and
 Rhetoric/, eds. Copeland and Sluiter, pp. 573-83 [Chalk; Reg]
