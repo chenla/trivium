@@ -1,25 +1,28 @@
 #   -*- mode: org; fill-column: 60 -*-
-#+TITLE: Table of Contents
 #+STARTUP: showall
-#+PROPERTY: filename
-  :PROPERTIES:
-  :Name: /home/deerpig/proj/chenla/trivium/quad-index.org
-  :Created: 2017-03-30T17:47@Prek Leap (11.642600N-104.919210W)
-  :ID: 9ff66db2-74ba-4e27-9cde-8cedd5fc4bf6
-  :URL:
-  :END:
-#+INCLUDE: ./inc/head.org
-#+INCLUDE: ./inc/macros.org
+#+TITLE:   Quadrivium | TOC
 
-{{{breadcrumbs}}}
+[[https://img.shields.io/badge/made%20by-Chenla%20Institute-999999.svg?style=flat-square]] 
+[[https://img.shields.io/badge/class-primer-56B4E9.svg?style=flat-square]]
+[[https://img.shields.io/badge/entity-TOC-0072B2.svg?style=flat-square]]
+[[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
+[[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
-#+HTML: <div class="outline-2" id="meta">
-| *Author*  | Brad Collins <brad@chenla.org>             |
-| *Date*    | {{{time(%Y-%m-%d %H:%M:%S)}}}              |
-#+HTML: </div>
 
-#+TOC: headlines 4
-
+* Quadrivium | Table of Contents
+:PROPERTIES:
+:CUSTOM_ID:
+:Name:     /home/deerpig/proj/chenla/trivium/quad-index.org
+:Created:  2017-03-30T17:47@Prek Leap (11.642600N-104.919210W)
+:ID:       9ff66db2-74ba-4e27-9cde-8cedd5fc4bf6
+:VER:      565805258.652865721
+:GEO:      48P-491193-1287029-15
+:BXID:     proj:PJN8-7285
+:Class:    primer
+:Entity:   toc
+:Status:   wip
+:Licence:  MIT/CC BY-SA 4.0
+:END:
 
 * Table of Contents
 
