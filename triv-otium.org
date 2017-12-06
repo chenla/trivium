@@ -31,8 +31,45 @@ bibliography:../hoard/bib.bib
 ** References 
 
 
-- Ruggeri, A., /The compelling case for working a lot less/ (2017).
-  cite:ruggeri2017compelling
+ - Ruggeri, A., /The compelling case for working a lot less/ (2017).
+   cite:ruggeri2017compelling
+ - Pang, A. S., Rest: why you get more done when you work
+   less (2016), : Basic Books.
+   cite:pang:2016rest 
+ - Pieper, J., Leisure: the basis of culture (1998), :
+   St. Augustine's Press.
+   cite:peiper:1998leisure
+ - Pieper, J., Mu\sse und kult (1961), : K{\"o}sel.
+   cite:pieper:1961musse 
+ - Wikipedia, , /Josef pieper --- wikipedia, the free
+   encyclopedia/ (2017).
+   cite:wiki:2017josef-pieper
+ - James, W., The gospel of relaxation., , (),  (1899). 
+   cite:james:1899gospel
+ - James, W., Talks to teachers on psychology: and to
+   students on some of life's ideals (1899), : Henry Holt
+   and Company.
+   cite:james:1899talks
+ - James, W., Habit (1914), : Henry Holt and Company.
+   cite:james:1914habit
+ - Bertrand, R., In praise of idleness, zpubnotes.com, (),
+   (1932).
+   cite:russell:1932praise
+ - Wikipedia, , /In praise of idleness and other essays ---
+   wikipedia, the free encyclopedia/ (2017).
+   cite:wiki:2017in-praise-of-idleness
+ - Pang, A. S., /Darwin was a slacker and you should be too/
+   (2017).
+   cite:pang:2017darwin-slacker
+ - Jabr, F., /Why Your Brain Needs More Downtime/ (2013).
+   cite:jabr:2013why-your-brain
+ - Cajal, S. R. y., [trans.], N. S., & [trans.], L. W. S.,
+   Advice for a young investigator (1999), : The MIT Press.
+   cite:cajal:1999advice
+
+
+
+
 
 ** Introduction
 
@@ -114,17 +151,6 @@ the method permanently.
 
 ** Otium
 
- - [[http://nautil.us/issue/46/balance/darwin-was-a-slacker-and-you-should-be-too][You Should Work Less Hours—Darwin Did]] | Nautilus
- - [[bib:pang:2016rest][REST: Why You Get More Done When You Work Less]] | Alex Soojung-Kim Pang
- - [[https://www.scientificamerican.com/article/mental-downtime/][Why Your Brain Needs More Downtime]] | Scientific American
-
- - [[https://www.uky.edu/~eushe2/Pajares/jgospel.html][The Gospel of Relaxation]] | William James
- - Gospel of Relaxation | William James (pdf)
- - Advice for a Young Investigator | Ramón y Cajal
- - Muße und Kult (Leisure: The Basis of Culture) | Josef Pieper
- - Leisure: The Basis of Culture | Josef Pieper 1948
-
- - [[https://en.wikipedia.org/wiki/Josef_Pieper][Josef Pieper]] | Wikipedia
 
 
 #+begin_comment
