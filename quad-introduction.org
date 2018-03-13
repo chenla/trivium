@@ -11,6 +11,8 @@
 [[https://img.shields.io/badge/status-wip-D55E00.svg?style=flat-square]]
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
+bibliography:../hoard/bib.bib
+
 * Introduction | Quadrivium
 :PROPERTIES:
 :CUSTOM_ID: 
@@ -26,7 +28,7 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
-
+cite:parker:1890seven
 
 The original Quadrivium was made up of four subjects that each dealt
 with different aspects of number and magnitude: arithmetic, geometry,
