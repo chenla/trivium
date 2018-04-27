@@ -12,6 +12,8 @@
 [[https://img.shields.io/badge/licence-MIT%2FCC%20BY--SA%204.0-000000.svg?style=flat-square]]
 
 
+*NOTE: preparing to deprecate file 2018-04-26*
+
 * Mastery
 :PROPERTIES:
 :CUSTOM_ID: 
@@ -27,6 +29,8 @@
 :Licence:   MIT/CC BY-SA 4.0
 :END:
 
+
+** Epigraph                                                 :deprecated:
 
 #+begin_quote
     Vita brevis,
@@ -86,7 +90,7 @@ Mastery comes down to three things:
    - process
 
 
-Mastery: George Leonard
+*** Mastery: George Leonard                                :deprecated;
 
 5 keys to long-term success:
 
